@@ -6,10 +6,10 @@ The Web3API DAO is responsible for stewarding the Web3API ecosystem. `W3API` gov
 - DAO configuration
 - ENS domain (web3api.eth)
 
-In the future, it is anticipated that the DAO will take on direct governance of:
+In the future, it is anticipated that the DAO will also govern:
 - Web3API repositories
 - Web3Hub platform deployments
-- DAO-verified APIs hosted at web3api.eth subdomains, and more...
+- DAO-verified APIs (hosted at web3api.eth subdomains)
 
 ## DAO Configuration
 
@@ -32,39 +32,27 @@ The DAO uses the following Aragon apps:
 See the full configuration [here]() TODO.
 
 ## Token Distribution
-NOTE: Tokens are initially set to be non-transferable.
 
-### Phase 0 - Pre-Seed Builders
 At launch 4,000 `W3API` are minted to *Pre-Seed Builders* in proportion to work contributed before launch (Oct 1, 2020). A breakdown of these builder contributions can be seen [here](). TODO
 
-### Phase 1 - Seed Funders & Builders
 In the first 12 months after launch, it is anticipated that the DAO will mint no more than:
 - 4,000 `W3API` to *Seed Funders* for $250/token
 - 12,000 `W3API` (1,000/month) to *Seed Builders* in proportion to value-added contributions
 
 TODO: add pie chart
 
-Funds will be used over the first 12 months for:
-- **Development - $42,000 / month**
-    - Tech
-    - Design
-    - Documentation
-- **Ops & Adoption - $15,000 / month**
-    - Ecosystem Growth
-    - Builder Support
-    - User Support
-- **Other - $5,500 / month**
-    - Legal
-    - SaaS
+After the 12 month seed period, the `W3API` holders will decide on further fundraising and token emission plans.
+
+NOTE: Tokens are initially set to be non-transferable.
+
+## Use of Funds
+
+In the first 12 months, it is anticipated that the DAO will allocate funds for:
+- Development - $42,000 / month
+- Ops & Adoption - $15,000 / month
+- Legal & SaaS - $5,500 / month
 
 TODO: add pie chart
-
-### Phase 2 - ?
-After the 12 month seed period, the `W3API` holders will decide on further fundraising needs and token emmission.
-
-## Legal
-
-Holders of `W3API` do not constitute a partnership, only the right to participate in the governance of the DAO.
 
 ## Getting Started
 
@@ -75,7 +63,7 @@ To become a *Seed Funder*:
 1. Go to the [DAO's Token Request App](TODO).
 2. Click **New Request** in the top right corner.
 3. In **Offered Amount** enter the amount you would like to contribute (DAI, USDC or USDT).
-4. In **Requested Amount** enter the amount of `W3API` you'd like to receive. This can be calculated by dividing the **Offer Amount** by the seed price of $250, or whatever the going rate of `W3API` is.
+4. In **Requested Amount** enter the amount of `W3API` you'd like to receive. This can be calculated by dividing the **Offer Amount** by the seed price of $250.
 5. Press **Create Request** to submit your proposal for voting, along with the funds offered.
 6. Send an email to **web3api@dorg.tech** with the subject line 'Token Request' and the following info:
    - Name
@@ -87,5 +75,15 @@ To become a *Seed Funder*:
 
 ### Seed Builder
 
-To become a *Seed Builder*:
-1. TODO: create a
+To become a paid *Seed Builder*, simply create a **Builder Profile** and an **Execution Roadmap**. To do this, simply:
+1. Fork [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch'.
+2. Duplicate the `TEMPLATE.md` file in either the [`./profiles`](./profiles) or [`./roadmaps`](./roadmaps) folder (TODO create templates).
+3. Give the file a name (person, organization, project).
+4. Complete all required details, and feel free to get creative with anything else you'd like to add.
+5. Open a PR against [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch.
+6. Create an informational proposal in the [DAO's voting app](TODO), linking to the PR that was just opened.
+7. If the DAO proposal passes, the PR can then be merged into master.
+
+## Legal
+
+Holders of `W3API` do not constitute a partnership, only the right to participate in the governance of the DAO.
