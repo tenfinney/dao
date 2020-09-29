@@ -37,7 +37,7 @@ At launch 4,000 `W3API` are minted to *Pre-Seed Builders* in proportion to work 
 
 In the first 12 months after launch, it is anticipated that the DAO will mint no more than:
 - 4,000 `W3API` to *Seed Funders* for $250/token
-- 12,000 `W3API` (1,000/month) to *Seed Builders* in proportion to value-added contributions
+- 12,000 `W3API` to *Seed Builders* in proportion to value-added contributions (~1,000/month)
 
 TODO: add pie chart
 
@@ -64,25 +64,24 @@ To become a *Seed Funder*:
 2. Click **New Request** in the top right corner.
 3. In **Offered Amount** enter the amount you would like to contribute (DAI, USDC or USDT).
 4. In **Requested Amount** enter the amount of `W3API` you'd like to receive. This can be calculated by dividing the **Offer Amount** by the seed price of $250.
-5. Press **Create Request** to submit your proposal for voting, along with the funds offered.
-6. Send an email to **web3api@dorg.tech** with the subject line 'Token Request' and the following info:
+5. Press **Create Request** to initiate the proposal and deposit your funds.
+6. Email **web3api@dorg.tech** with subject line 'Token Request' and the following info:
    - Name
    - ETH Address
    - Email Address
    - Brief background on who you are and what strategic value you bring to the project
 
-`W3API` holders will receive this information and vote on your request. If approved, your funds will transfer to the DAO and `W3API` will be minted to your wallet. If rejected, you will you will be able to withdraw your funds. You may also withdraw your funds at any time before the request is approved.
+`W3API` holders will receive this information and vote on your request. If approved, your funds will transfer to the DAO and `W3API` will be minted to your wallet. If rejected, you will be able to withdraw your funds. You may also withdraw your funds at any time before the request is approved.
 
 ### Seed Builder
 
-To become a paid *Seed Builder*, simply create a **Builder Profile** and an **Execution Roadmap**. To do this, simply:
+To become a *Seed Builder*:
 1. Fork [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch'.
-2. Duplicate the `TEMPLATE.md` file in either the [`./profiles`](./profiles) or [`./roadmaps`](./roadmaps) folder (TODO create templates).
-3. Give the file a name (person, organization, project).
-4. Complete all required details, and feel free to get creative with anything else you'd like to add.
-5. Open a PR against [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch.
-6. Create an informational proposal in the [DAO's voting app](TODO), linking to the PR that was just opened.
-7. If the DAO proposal passes, the PR can then be merged into master.
+2. Duplicate the `TEMPLATE.md` file in the [`./roadmaps`](./roadmaps) folder (TODO create template).
+3. Name the file, complete all required fields, and feel free to get creative with anything else you'd like to add.
+4. Open a PR against [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch.
+5. Create an informational proposal in the [DAO's voting app](TODO), linking to the open PR.
+6. If the DAO proposal passes, the PR can then be merged into master.
 
 ## Legal
 
