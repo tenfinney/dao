@@ -17,7 +17,7 @@ In the future, it is anticipated that the DAO will also govern:
 
 To become a *Seed Funder*:
 
-1. Go to the [DAO's Token Request App](TODO).
+1. Go to the [DAO's Token Request App](https://client.aragon.org/#/w3api/0x9bb4ea752a3096104c7765ad318b0f9cabaaf95f/).
 2. Click **New Request** in the top right corner.
 3. In **Offered Amount** enter the amount you would like to contribute (DAI, USDC or USDT).
 4. In **Requested Amount** enter the amount of `W3API` you'd like to receive. This can be calculated by dividing the **Offer Amount** by the seed price of $250.
@@ -34,10 +34,10 @@ To become a *Seed Funder*:
 
 To become a *Seed Builder*:
 1. Fork [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch'.
-2. Duplicate the `TEMPLATE.md` file in the [`./roadmaps`](./roadmaps) folder (TODO create template).
+2. Duplicate the [`TEMPLATE.md`](./roadmaps/TEMPLATE.md) file in the [`./roadmaps`](./roadmaps) folder.
 3. Name the file, complete all required fields, and feel free to get creative with anything else you'd like to add.
 4. Open a PR against [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch.
-5. Create an informational proposal in the [DAO's voting app](TODO), linking to the open PR.
+5. Create an informational proposal in the [DAO's voting app](https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/), linking to the open PR.
 6. If the DAO proposal passes, the PR can then be merged into master.
 
 ## Token Distribution
@@ -79,10 +79,10 @@ Initial governance parameters are as follows:
 The DAO uses the following Aragon apps:
 | App | Address | Description |
 |-|-|-|
-|*[Voting](https://help.aragon.org/article/19-voting)*| 0x...| Used to create and participate in votes. Votes can be linked to an action, such as minting `W3API` or transferring funds, or be purely informative. |
-| *[Finance](https://help.aragon.org/article/20-finance)*| 0x... | Manages the organization's financial assets, including ETH and ERC20s. |
-| *[Tokens](https://help.aragon.org/article/18-tokens)* | 0x... | Manages the supply and distribution of `W3API`. |
-|*[Token Request](https://github.com/1Hive/token-request-app/blob/master/docs/user-guide.md)*|0x...| Mints `W3API` in exchange for payment.|
-|*[Agent](https://help.aragon.org/article/37-agent)*| 0x...| Enables the organization to interact directly with any other smart contract on Ethereum. For example, setting an ENS resolver. |
+| *[Voting](https://help.aragon.org/article/19-voting)* | 0x5f78d0668ba666b4ed9674b313419d9db6cd48a6 | Used to create and participate in votes. Votes can be linked to an action, such as minting `W3API` or transferring funds, or be purely informative. |
+| *[Finance](https://help.aragon.org/article/20-finance)* | 0xc19a9f41df38e0f01f809d257d6c71f892adaaff | Manages the organization's financial assets, including ETH and ERC20s. |
+| *[Tokens](https://help.aragon.org/article/18-tokens)* | 0x8baa4cd6bf2a01e96e421c18b0231ce7791ed869 | Manages the supply and distribution of `W3API`. |
+| *[Token Request](https://github.com/1Hive/token-request-app/blob/master/docs/user-guide.md)* | 0x9bb4ea752a3096104c7765ad318b0f9cabaaf95f | Mints `W3API` in exchange for payment.|
+| *[Agent](https://help.aragon.org/article/37-agent)* | 0x8fe59d8fb5ffd3509e5cb3d386be8bdb2d363662 | Enables the organization to interact directly with any other smart contract on Ethereum. For example, setting an ENS resolver. |
 
-See the full configuration [here]() TODO.
+See the full configuration [here](https://client.aragon.org/#/w3api/permissions/).
