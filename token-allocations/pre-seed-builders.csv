@@ -10,12 +10,11 @@ Hector,1,0.04%,1.45,0x5db06acd673531218b10430ba6de9b69913ad545,
 Phil,12,0.44%,17.45,0xaa01dec5307cf17f20881a3286dcaa062578cea7,
 Alex,45,1.64%,65.45,0xa13ee4362f171b5c62be230e5eb2fee8c375b875,
 Ingamar,36.5,1.33%,53.09,0x58b753f0c417494226af608b63e80028255cbc64,
-TOTAL,2750,,4000.00,
+TOTAL,2750,,4000.00,,
 ,,,,,
 ,,,,,
 ,,,,,
-,,,,,
-Builder,Task,Hours,Impact (<= 3),Points,PoW,
+Builder,Task,Hours,Impact (<= 3),Points,PoW
 Jordan,ETH NY - Web3Bindings,54,3,162,https://github.com/web3bindings/prototype
 Ori,ETH NY - Web3Bindings,27,3,81,https://github.com/web3bindings/prototype
 Jordan,The Graph - Mutations,480,0.25,120,"https://github.com/dorgtech/the-graph-mutations-spec 
