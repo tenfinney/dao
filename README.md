@@ -25,7 +25,6 @@ To become a *Seed Funder*:
 6. Email **web3api@dorg.tech** with subject line 'Token Request' and the following info:
    - Name
    - ETH Address
-   - Email Address
    - Brief background on who you are and what strategic value you bring to the project
 
 `W3API` holders will receive this information and vote on your request. If approved, your funds will transfer to the DAO and `W3API` will be minted to your wallet. If rejected, you will be able to withdraw your funds. You may also withdraw your funds at any time before the request is approved.
