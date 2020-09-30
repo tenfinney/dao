@@ -1,4 +1,21 @@
-Builder,Task,Hours,Impact (<= 3),Points,PoW
+Total,Points,%,Tokens,Address,
+Jordan,1411,51.31%,2052.36,0xb1b7586656116d546033e3baff69bfcd6592225e,
+Nestor,122.5,4.45%,178.18,0x2e7f4dd3acd226ddae10246a45337f815cf6b3ff,
+Ori,599.5,21.80%,872.00,0x639749b7b08aee65039c21d8a411103c6cebebf0,
+Roberto,384.5,13.98%,559.27,0x37341cbb14c5f128a70b149726ad8b2ce6f4c793,
+Cesar,128.5,4.67%,186.91,0x61ffe691821291d02e9ba5d33098adcee71a3a17,
+Thomas,1,0.04%,1.45,0x36dbcbb5c90e9b00ab658353696610cc5d7b7002,
+Jesse,8.5,0.31%,12.36,0x76bc4c780dd85558bc4b24a4f262f4eb0be78ca7,
+Hector,1,0.04%,1.45,0x5db06acd673531218b10430ba6de9b69913ad545,
+Phil,12,0.44%,17.45,0xaa01dec5307cf17f20881a3286dcaa062578cea7,
+Alex,45,1.64%,65.45,0xa13ee4362f171b5c62be230e5eb2fee8c375b875,
+Ingamar,36.5,1.33%,53.09,0x58b753f0c417494226af608b63e80028255cbc64,
+TOTAL,2750,,4000.00,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Builder,Task,Hours,Impact (<= 3),Points,PoW,
 Jordan,ETH NY - Web3Bindings,54,3,162,https://github.com/web3bindings/prototype
 Ori,ETH NY - Web3Bindings,27,3,81,https://github.com/web3bindings/prototype
 Jordan,The Graph - Mutations,480,0.25,120,"https://github.com/dorgtech/the-graph-mutations-spec 
@@ -61,20 +78,3 @@ https://gitcoin.co/grants/1252/web3api"
 Alex,Legal,15,3,45,Legal consulting for Web3API DAO's launch
 Nestor,September,1,2.5,2.5,Web3api.dev partnership section implementation
 Eric,September,4,2,8,Web3API Seed Deck + Video Feedback
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-Total,Points,%,Tokens,Address,
-Jordan,1411,51.31%,2052.36,0xb1b7586656116d546033e3baff69bfcd6592225e,
-Nestor,122.5,4.45%,178.18,0x2e7f4dd3acd226ddae10246a45337f815cf6b3ff,
-Ori,599.5,21.80%,872.00,0x639749b7b08aee65039c21d8a411103c6cebebf0,
-Roberto,384.5,13.98%,559.27,0x37341cbb14c5f128a70b149726ad8b2ce6f4c793,
-Cesar,128.5,4.67%,186.91,0x61ffe691821291d02e9ba5d33098adcee71a3a17,
-Thomas,1,0.04%,1.45,0x36dbcbb5c90e9b00ab658353696610cc5d7b7002,
-Jesse,8.5,0.31%,12.36,0x76bc4c780dd85558bc4b24a4f262f4eb0be78ca7,
-Hector,1,0.04%,1.45,0x5db06acd673531218b10430ba6de9b69913ad545,
-Phil,12,0.44%,17.45,0xaa01dec5307cf17f20881a3286dcaa062578cea7,
-Alex,45,1.64%,65.45,0xa13ee4362f171b5c62be230e5eb2fee8c375b875,
-Ingamar,36.5,1.33%,53.09,0x58b753f0c417494226af608b63e80028255cbc64,
-TOTAL,2750,,4000.00,,
