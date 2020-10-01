@@ -51,7 +51,7 @@ In the first 12 months after launch, it is anticipated that the DAO will mint no
 - 4,000 `W3API` to *Seed Funders* for $250/token (viewable [here](./token-allocations/seed-funders.csv)), resulting in $1M raised
 - 12,000 `W3API` to *Seed Builders* in proportion to value-added contributions (~1,000/month)
 
-<img src="./img/token-distribution.png" height="300px"/>
+<img src="./img/token-distribution.png" width="300px"/>
 
 After the 12 month seed period, the `W3API` holders will decide on further fundraising and token emission plans.
 
@@ -64,7 +64,11 @@ In the first 12 months, it is anticipated that the DAO will allocate funds for:
 - Ops & Adoption - $15,000 / month
 - Legal & SaaS - $5,500 / month
 
-<img src="./img/fund-usage.png" height="400px"/>
+<img src="./img/fund-usage.png" width="600px"/>
+
+With the goal of delivering the following in 2021:
+
+<img src="./img/seed-goals.png" width="600px">
 
 ## Legal
 
