@@ -17,9 +17,10 @@ In the future, it is anticipated that the DAO will also govern:
 
 To become a *Seed Funder*:
 
+0. Understand the DAO's tokenomics detailed in the **Token Distribution** section below.
 1. Go to the [DAO's Token Request App](https://client.aragon.org/#/w3api/0x9bb4ea752a3096104c7765ad318b0f9cabaaf95f/).
 2. Click **New Request** in the top right corner.
-3. In **Offered Amount** enter the amount you would like to contribute (DAI, USDC or USDT).
+3. In **Offered Amount** enter the amount you would like to contribute (DAI, USDC, USDT, or TUSD).
 4. In **Requested Amount** enter the amount of `W3API` you'd like to receive. This can be calculated by dividing the **Offer Amount** by the seed price of $250.
 5. Press **Create Request** to initiate the proposal and deposit your funds.
 6. Email **web3api@dorg.tech** with subject line 'Token Request' and the following info:
@@ -44,7 +45,7 @@ To become a *Seed Builder*:
 At launch 4,000 `W3API` are minted to *Pre-Seed Builders* in proportion to work contributed before launch on October 1st (viewable [here](./token-allocations/pre-seed-builders.csv)).
 
 In the first 12 months after launch, it is anticipated that the DAO will mint no more than:
-- 4,000 `W3API` to *Seed Funders* for $250/token (viewable [here](./token-allocations/seed-funders.csv))
+- 4,000 `W3API` to *Seed Funders* for $250/token (viewable [here](./token-allocations/seed-funders.csv)), resulting in $1M raised
 - 12,000 `W3API` to *Seed Builders* in proportion to value-added contributions (~1,000/month)
 
 <img src="./img/token-distribution.png" height="300px"/>
