@@ -7,6 +7,8 @@ The Web3API DAO is responsible for stewarding the Web3API ecosystem. `W3API` gov
 - DAO configuration
 - ENS domain (web3api.eth)
 
+Right now, the governance process is excercised by `W3API` holders through voting on proposals sent to the is Aragon instance of the [Web3API DAO](https://client.aragon.org/#/w3api/). 
+
 In the future, it is anticipated that the DAO will also govern:
 - Web3API repositories
 - Web3Hub platform deployments
@@ -14,7 +16,11 @@ In the future, it is anticipated that the DAO will also govern:
 
 ## Getting Started
 
+Currently people interested on participation in the governance of the DAO can obtain tokens by funding a portion of the project (Seed Funders) or by building towards the project's objectives (Seed builders).
+
 ### Seed Funder
+
+>INSERT A QUICK INTRO ABOUT SEED FUNDERS HERE
 
 To become a *Seed Funder*:
 
@@ -33,7 +39,7 @@ To become a *Seed Funder*:
 
 ### Seed Builder
 
-**Seed Builders** are granted funds on a per-project basis by the Web3API DAO. All projects being funded will have their own roadmap documents. These roadmap documents will help the DAO: budget, maintain accountability, and schedule developments.
+>**Seed Builders** are granted funds on a per-project basis by the Web3API DAO. All projects being funded will have their own roadmap documents. These roadmap documents will help the DAO: budget, maintain accountability, and schedule developments.
 
 To become a *Seed Builder*:
 1. Fork [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch'.
@@ -79,7 +85,7 @@ Holders of `W3API` do not constitute any sort of partnership or joint venture, o
 Initial governance parameters are as follows:
 | Parameter | Value | Description |
 |-|-|-|
-| *Minimum Approval* | 10% | Percentage of the total token supply that is required to vote “Yes” on a proposal before it can be approved. |
+| *Minimum Approval* | 10% | Percentage of the Total Token Supply (participation) that is required to vote “Yes” on a proposal before it can be approved. |
 | *Support* | 60% | Relative percentage of tokens that are required to vote “Yes” for a proposal to be approved. |
 | *Vote Duration* | 7 days| Maximum length of time that the vote will be open for participation. |
 
