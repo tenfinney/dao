@@ -32,6 +32,8 @@ To become a *Seed Funder*:
 
 ### Seed Builder
 
+**Seed Builders** are granted funds on a per-project basis by the Web3API DAO. All projects being funded will have their own roadmap documents. These roadmap documents will help the DAO: budget, maintain accountability, and schedule developments.
+
 To become a *Seed Builder*:
 1. Fork [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch'.
 2. Duplicate the [`TEMPLATE.md`](./roadmaps/TEMPLATE.md) file in the [`./roadmaps`](./roadmaps) folder.
