@@ -1,4 +1,5 @@
 # Web3API DAO
+[![Generic badge](https://img.shields.io/badge/STATUS-MAINNET-GREEN.svg)](https://client.aragon.org/#/w3api)
 
 The Web3API DAO is responsible for stewarding the Web3API ecosystem. `W3API` governance token holders will have immediate control of the:
 - Treasury
