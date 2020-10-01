@@ -64,7 +64,7 @@ In the first 12 months, it is anticipated that the DAO will allocate funds for:
 
 ## Legal
 
-Holders of `W3API` do not constitute a partnership, only the right to participate in the governance of the DAO.
+Holders of `W3API` do not constitute any sort of partnership or joint venture, only the right to participate in the governance of the DAO. Further, becoming a Seed Builder does not constitute any sort of partnership, joint venture, principal-agent relationship, or an employer-employee relationship. 
 
 ## DAO Configuration
 
