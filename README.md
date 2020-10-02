@@ -7,8 +7,6 @@ The Web3API DAO is responsible for stewarding the Web3API ecosystem. `W3API` gov
 - DAO configuration
 - ENS domain (web3api.eth)
 
-Right now, the governance process is excercised by `W3API` holders through voting on proposals sent to the is Aragon instance of the [Web3API DAO](https://client.aragon.org/#/w3api/). 
-
 In the future, it is anticipated that the DAO will also govern:
 - Web3API repositories
 - Web3Hub platform deployments
@@ -16,15 +14,9 @@ In the future, it is anticipated that the DAO will also govern:
 
 ## Getting Started
 
-Currently, people and entities interested on participating in the governance of the DAO can obtain `W3API` governance tokens by either *funding* a portion of the project (and becoming a "Seed Funder") or *building* towards the project's objectives (and becoming a "Seed builder"). 
-
-Below you'll find more detail on both possibilities:
-
 ### Seed Funder
 
-> In the Web3APi DAO, **Seed funders** are people, organizations, DAOs, and other entities which would like to support the development of the Web3API technology while also having voting power on the DAO during its early stages. It's important to note that *Seed Funders have to be approved by existing DAO members* before receiving any `W3API` tokens and voting power in the DAO.
-
-To become a *Seed Funder* follow these steps:
+To become a *Seed Funder*:
 
 0. Understand the DAO's tokenomics detailed in the [**Token Distribution**](#token-distribution) section below.
 1. Go to the [DAO's Token Request App](https://client.aragon.org/#/w3api/0x9bb4ea752a3096104c7765ad318b0f9cabaaf95f/).
@@ -41,9 +33,9 @@ To become a *Seed Funder* follow these steps:
 
 ### Seed Builder
 
->In the Web3API DAO, **Seed Builders** are are people, organizations, DAOs, and other entities, which are granted funds on a per-project basis by the Web3API DAO to work on planed objectives. All of the funded builder projects will have their own roadmap documents. These roadmap documents will help managing the DAO's budget, while also maintaining accountability, and scheduling developments.
+**Seed Builders** are granted funds on a per-project basis by the Web3API DAO. All projects being funded will have their own roadmap documents. These roadmap documents will help the DAO: budget, maintain accountability, and schedule developments.
 
-To become a *Seed Builder* follow these steps:
+To become a *Seed Builder*:
 1. Fork [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch'.
 2. Duplicate the [`TEMPLATE.md`](./roadmaps/TEMPLATE.md) file in the [`./roadmaps`](./roadmaps) folder.
 3. Name the file, complete all required fields, and feel free to get creative with anything else you'd like to add.
@@ -87,7 +79,7 @@ Holders of `W3API` do not constitute any sort of partnership or joint venture, o
 Initial governance parameters are as follows:
 | Parameter | Value | Description |
 |-|-|-|
-| *Minimum Approval* | 10% | Percentage of the Total Token Supply (participation) that is required to vote “Yes” on a proposal before it can be approved. |
+| *Minimum Approval* | 10% | Percentage of the Total Token Supply that is required to vote “Yes” on a proposal before it can be approved. |
 | *Support* | 60% | Relative percentage of tokens that are required to vote “Yes” for a proposal to be approved. |
 | *Vote Duration* | 7 days| Maximum length of time that the vote will be open for participation. |
 
