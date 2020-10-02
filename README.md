@@ -18,13 +18,13 @@ In the future, it is anticipated that the DAO will also govern:
 
 To become a *Seed Funder*:
 
-0. Understand the DAO's tokenomics detailed in the **Token Distribution** section below.
+0. Understand the DAO's tokenomics detailed in the [**Token Distribution**](#token-distribution) section below.
 1. Go to the [DAO's Token Request App](https://client.aragon.org/#/w3api/0x9bb4ea752a3096104c7765ad318b0f9cabaaf95f/).
 2. Click **New Request** in the top right corner.
 3. In **Offered Amount** enter the amount you would like to contribute (DAI, USDC, USDT, or TUSD).
 4. In **Requested Amount** enter the amount of `W3API` you'd like to receive. This can be calculated by dividing the **Offer Amount** by the seed price of $250.
 5. Press **Create Request** to initiate the proposal and deposit your funds.
-6. Email **web3api@dorg.tech** with subject line 'Token Request' and the following info:
+6. Email [**web3api@dorg.tech**](mailto:web3api@dorg.tech) with subject line 'Token Request' and the following info:
    - Name
    - ETH Address
    - Brief background on who you are and what strategic value you bring to the project
