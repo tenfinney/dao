@@ -79,7 +79,7 @@ Holders of `W3API` do not constitute any sort of partnership or joint venture, o
 Initial governance parameters are as follows:
 | Parameter | Value | Description |
 |-|-|-|
-| *Minimum Approval* | 10% | Percentage of the Total Token Supply that is required to vote “Yes” on a proposal before it can be approved. |
+| *Minimum Approval* | 10% | Percentage of the total token supply that is required to vote “Yes” on a proposal before it can be approved. |
 | *Support* | 60% | Relative percentage of tokens that are required to vote “Yes” for a proposal to be approved. |
 | *Vote Duration* | 7 days| Maximum length of time that the vote will be open for participation. |
 
