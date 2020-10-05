@@ -1,16 +1,16 @@
-Total,Points,%,Tokens,Address,
-Jordan,1411.5,51.11%,2045,0xb1b7586656116d546033e3baff69bfcd6592225e,
-Nestor,122.5,4.44%,177,0x2e7f4dd3acd226ddae10246a45337f815cf6b3ff,
-Ori,600,21.73%,869,0x639749b7b08aee65039c21d8a411103c6cebebf0,
-Roberto,385,13.94%,558,0x37341cbb14c5f128a70b149726ad8b2ce6f4c793,
-Cesar,129,4.67%,187,0x61ffe691821291d02e9ba5d33098adcee71a3a17,
-Thomas,1.5,0.05%,2,0x36dbcbb5c90e9b00ab658353696610cc5d7b7002,
-Jesse,9,0.33%,13,0x76bc4c780dd85558bc4b24a4f262f4eb0be78ca7,
-Hector,1.5,0.05%,2,0x5db06acd673531218b10430ba6de9b69913ad545,
-Phil,12,0.43%,17,0xaa01dec5307cf17f20881a3286dcaa062578cea7,
+Total,Points,%,Tokens,Address,Profile
+Jordan,1411.5,51.11%,2045,0xb1b7586656116d546033e3baff69bfcd6592225e,https://github.com/dorgjelli
+Nestor,122.5,4.44%,177,0x2e7f4dd3acd226ddae10246a45337f815cf6b3ff,https://github.com/namesty
+Ori,600,21.73%,869,0x639749b7b08aee65039c21d8a411103c6cebebf0,https://github.com/orishim
+Roberto,385,13.94%,558,0x37341cbb14c5f128a70b149726ad8b2ce6f4c793,https://github.com/rihp
+Cesar,129,4.67%,187,0x61ffe691821291d02e9ba5d33098adcee71a3a17,https://github.com/cbrzn
+Thomas,1.5,0.05%,2,0x36dbcbb5c90e9b00ab658353696610cc5d7b7002,https://github.com/tspoff
+Jesse,9,0.33%,13,0x76bc4c780dd85558bc4b24a4f262f4eb0be78ca7,https://github.com/jessebmiller
+Hector,1.5,0.05%,2,0x5db06acd673531218b10430ba6de9b69913ad545,https://github.com/mrrobot16
+Phil,12,0.43%,17,0xaa01dec5307cf17f20881a3286dcaa062578cea7,https://github.com/PhilH
 Alex,45,1.63%,65,0xa13ee4362f171b5c62be230e5eb2fee8c375b875,
-Ingamar,36.5,1.32%,53,0x58b753f0c417494226af608b63e80028255cbc64,
-Eric,8,0.29%,12,0xa15ca74e65bf72730811abf95163e89ad9b9dff6,
+Ingamar,36.5,1.32%,53,0x58b753f0c417494226af608b63e80028255cbc64,https://twitter.com/Ingalandia
+Eric,8,0.29%,12,0xa15ca74e65bf72730811abf95163e89ad9b9dff6,https://twitter.com/eric_rsno
 TOTAL,2761.5,,4000,,
 ,,,,,
 ,,,,,
@@ -52,7 +52,7 @@ https://github.com/dOrgTech/dOrgEngine
 https://github.com/dorgengine "
 Ori,July,56,3,168,HackFS + https://web3api.dev building
 Roberto,July,67,3,201,HackFS + https://web3api.dev building
-Cesar,July,40,3,120,https://github.com/web3-api/prototype 
+Cesar,July,40,3,120,https://github.com/web3-api/prototype
 Jordan,August,160,2.5,400,HackFS Finalizing
 Ori,August,40,2.5,100,HackFS Finalizing
 Roberto,August,40,2.5,100,HackFS Finalizing

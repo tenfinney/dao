@@ -21,7 +21,7 @@ To become a *Seed Funder*:
 1. Go to the [DAO's Token Request App](https://client.aragon.org/#/w3api/0x9bb4ea752a3096104c7765ad318b0f9cabaaf95f/).
 2. Click **New Request** in the top right corner.
 3. In **Offered Amount** enter the amount you would like to contribute (DAI, USDC, USDT, or TUSD).
-4. In **Requested Amount** enter the **Offered Amount** divided by the current batch price (see [**Token Distribution**](#token-distribution) below). This is the number of `W3API` you will receive.
+4. In **Requested Amount** enter the **Offered Amount** divided by the current batch price (see [Token Distribution](#token-distribution) below). This is the number of `W3API` you will receive.
 5. Press **Create Request** to initiate the proposal and deposit your funds.
 6. Email [web3api@dorg.tech](mailto:web3api@dorg.tech) with subject line 'Token Request' and the following info:
    - Name
@@ -32,8 +32,6 @@ To become a *Seed Funder*:
 
 ### Seed Builder
 
-**Seed Builders** are granted funds on a per-project basis by the Web3API DAO. All projects being funded will have their own roadmap documents. These roadmap documents will help the DAO: budget, maintain accountability, and schedule developments.
-
 To become a *Seed Builder*:
 1. Fork [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch'.
 2. Duplicate the [`TEMPLATE.md`](./roadmaps/TEMPLATE.md) file in the [`./roadmaps`](./roadmaps) folder.
@@ -41,6 +39,8 @@ To become a *Seed Builder*:
 4. Open a PR against [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch.
 5. Create an informational proposal in the [DAO's voting app](https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/), linking to the open PR.
 6. If the DAO proposal passes, the PR can then be merged into master.
+
+*Seed Builders* are granted funds on a per-project basis by the Web3API DAO. All projects being funded will have their own roadmap documents. These roadmap documents will help the DAO: budget, maintain accountability, and schedule developments.
 
 ## Token Distribution
 
@@ -77,10 +77,6 @@ With the goal of delivering the following in 2021:
 
 <img src="./img/seed-goals.png" width="600px">
 
-## Legal
-
-Holders of `W3API` do not constitute any sort of partnership or joint venture, only the right to participate in the governance of the DAO. Further, becoming a Seed Builder does not constitute any sort of partnership, joint venture, principal-agent relationship, or an employer-employee relationship. 
-
 ## DAO Configuration
 
 Initial governance parameters are as follows:
@@ -100,3 +96,20 @@ The DAO uses the following Aragon apps:
 | *[Agent](https://help.aragon.org/article/37-agent)* | 0x8fe59d8fb5ffd3509e5cb3d386be8bdb2d363662 | Enables the organization to interact directly with any other smart contract on Ethereum. For example, setting an ENS resolver. |
 
 See the full configuration [here](https://client.aragon.org/#/w3api/permissions/).
+
+## Legal
+
+Holders of `W3API` do not constitute any sort of partnership or joint venture, only the right to participate in the governance of the DAO. Further, becoming a Seed Builder does not constitute any sort of partnership, joint venture, principal-agent relationship, or an employer-employee relationship. 
+
+## FAQ
+
+**What can I do with my `W3API` tokens?**  
+Once your token request is approved, you instantly have the power to vote on all on-chain decisions, such as spending funds or minting new tokens.
+
+**What funder protections are there?**  
+1. *Seed Funders* will approach equal voting power to *Pre-Seed Builders* as the seed round reaches conclusion. This means that funders can protect their own best interests through voting. 
+2. Furthermore, the *Support* level is set at 60% to ensure that EVERY decision has mutual support from both builders and funders.
+3. Lastly, the initial token holders are long-term committed builders (see [Pre-Seed Builders](#Pre-Seed-Builders) above) who have been contributing since before the project was funded.
+
+**What about vesting?**  
+`W3API` tokens are initially set to be non-transferable. The DAO can decide to change this in the future and issue new tokens to contributors through token timelocks or vesting contracts.
