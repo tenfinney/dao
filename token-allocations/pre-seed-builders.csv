@@ -12,9 +12,9 @@ Alex,45,1.63%,65,0xa13ee4362f171b5c62be230e5eb2fee8c375b875,"",
 Ingamar,36.5,1.32%,53,0x58b753f0c417494226af608b63e80028255cbc64,"https://twitter.com/Ingalandia",
 Eric,8,0.29%,12,0xa15ca74e65bf72730811abf95163e89ad9b9dff6,"https://twitter.com/eric_rsno",
 TOTAL,2761.5,,4000,,,
-,,,,,
-,,,,,
-,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
 Builder,Task,Hours,Impact (<= 3),Points,PoW
 Jordan,ETH NY - Web3Bindings,54,3,162,https://github.com/web3bindings/prototype
 Ori,ETH NY - Web3Bindings,27,3,81,https://github.com/web3bindings/prototype
