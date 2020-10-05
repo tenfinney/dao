@@ -53,9 +53,9 @@ In the first 12 months after launch, it is anticipated that the DAO will mint no
 
   | Batch | Supply | Price |
   |-|-|-|
-  | *1* | 1,500 `W3API`| $200 |
-  | *2* | 1,500 `W3API`| $250 |
-  | *3* | 1,000 `W3API`| $325 |
+  | *A* | 1,500 `W3API`| $200 |
+  | *B* | 1,500 `W3API`| $250 |
+  | *C* | 1,000 `W3API`| $325 |
 - 12,000 `W3API` to *Seed Builders* in proportion to value-added contributions (~1,000/month)
 
 <img src="./img/token-distribution.png" width="300px"/>
