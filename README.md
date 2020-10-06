@@ -21,7 +21,7 @@ To become a *Seed Funder*:
 1. Go to the [DAO's Token Request App](https://client.aragon.org/#/w3api/0x9bb4ea752a3096104c7765ad318b0f9cabaaf95f/).
 2. Click **New Request** in the top right corner.
 3. In **Offered Amount** enter the amount you would like to contribute (DAI, USDC, USDT, or TUSD).
-4. In **Requested Amount** enter the **Offered Amount** divided by the current batch price (see [Token Distribution](#token-distribution) below). This is the number of `W3API` you will receive.
+4. In **Requested Amount** enter the **Offered Amount** divided by the current batch price (*$200*). This is the number of `W3API` you will receive.
 5. Press **Create Request** to initiate the proposal and deposit your funds.
 6. Fill out [this quick form](https://airtable.com/shrE0bMs1D07FV3oO).
 
@@ -56,7 +56,7 @@ At launch 4,000 `W3API` are minted to *Pre-Seed Builders* in proportion to work 
   | *B* | 1,500 `W3API`| $250 |
   | *C* | 1,000 `W3API`| $325 |  
 
-> NOTE: If all 4,000 `W3API` are not sold by December 31st, the remaining `W3API` will be distributed pro-rata to existing *Seed Funders*.
+> NOTE: If all 4,000 `W3API` are not sold by December 31st, the remaining `W3API` *Seed Funder* allocation will be distributed pro-rata to existing *Seed Funders*.
 
 ### Seed Builders
 12,000 `W3API` will be minted to *Seed Builders* in proportion to value-added contributions over the first 16 months (~750/month). `W3API` holders will decide on further fundraising and token emission plans after the 16 month seed period.
@@ -106,7 +106,7 @@ Once your token request is approved, you instantly have the power to vote on all
 **What funder protections are there?**  
 1. *Seed Funders* will approach equal voting power to *Pre-Seed Builders* as the seed round reaches conclusion (December 31st). This means that funders can protect their own best interests through voting. 
 2. Furthermore, the *Support* level is set at 60% to ensure that EVERY decision has mutual support from both builders and funders.
-3. Lastly, the initial token holders are long-term committed builders (see [Pre-Seed Builders](#Pre-Seed-Builders) above) who have been contributing since before the project was funded.
+3. Lastly, the initial token holders are long-term committed builders (see *[Pre-Seed Builders](#Pre-Seed-Builders)* above) who have been contributing since before the project was funded.
 
 **What about vesting?**  
 `W3API` tokens are initially set to be non-transferable. The DAO can decide to change this in the future and mint tokens to contributors via timelock or vesting contracts.
