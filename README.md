@@ -23,10 +23,7 @@ To become a *Seed Funder*:
 3. In **Offered Amount** enter the amount you would like to contribute (DAI, USDC, USDT, or TUSD).
 4. In **Requested Amount** enter the **Offered Amount** divided by the current batch price (see [Token Distribution](#token-distribution) below). This is the number of `W3API` you will receive.
 5. Press **Create Request** to initiate the proposal and deposit your funds.
-6. Email [web3api@dorg.tech](mailto:web3api@dorg.tech) with subject line 'Token Request' and the following info:
-   - Name
-   - ETH Address
-   - Brief background on who you are and what strategic value you bring to the project
+6. Fill out [this quick form](https://airtable.com/shrE0bMs1D07FV3oO).
 
 `W3API` holders will receive this information and vote on your request. If approved, your funds will transfer to the DAO and `W3API` will be minted to your wallet. If rejected, you will be able to withdraw your funds. You may also withdraw your funds at any time before the request is approved.
 
@@ -40,33 +37,33 @@ To become a *Seed Builder*:
 5. Create an informational proposal in the [DAO's voting app](https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/), linking to the open PR.
 6. If the DAO proposal passes, the PR can then be merged into master.
 
-*Seed Builders* are granted funds on a per-project basis by the Web3API DAO. All projects being funded will have their own roadmap documents. These roadmap documents will help the DAO: budget, maintain accountability, and schedule developments.
+*Seed Builders* are granted funds on a per-project basis by the Web3API DAO. Each funded project will have its own roadmap that helps the DAO budget, maintain accountability, and schedule developments.
 
 ## Token Distribution
+> NOTE: Tokens are initially set to be non-transferable.
+
+<img src="./img/token-distribution.png" width="300px"/>
 
 ### Pre-Seed Builders
 At launch 4,000 `W3API` are minted to *Pre-Seed Builders* in proportion to work contributed before launch on October 1st (viewable [here](./token-allocations/pre-seed-builders.csv)).
 
-### Seed Funders & Builders
-In the first 12 months after launch, it is anticipated that the DAO will mint no more than:
-- 4,000 `W3API` to *Seed Funders* for $1M in three batches (viewable [here](./token-allocations/seed-funders.csv))
+### Seed Funders
+4,000 `W3API` will be minted to *Seed Funders*, with a goal of raising $1M by December 31st. Tokens will be minted in three batches (viewable [here](./token-allocations/seed-funders.csv))
 
   | Batch | Supply | Price |
   |-|-|-|
   | *A* | 1,500 `W3API`| $200 |
   | *B* | 1,500 `W3API`| $250 |
-  | *C* | 1,000 `W3API`| $325 |
-- 12,000 `W3API` to *Seed Builders* in proportion to value-added contributions (~1,000/month)
+  | *C* | 1,000 `W3API`| $325 |  
 
-<img src="./img/token-distribution.png" width="300px"/>
+> NOTE: If all 4,000 `W3API` are not sold by December 31st, the remaining `W3API` will be distributed pro-rata to existing *Seed Funders*.
 
-After the 12 month seed period, the `W3API` holders will decide on further fundraising and token emission plans.
-
-NOTE: Tokens are initially set to be non-transferable.
+### Seed Builders
+12,000 `W3API` will be minted to *Seed Builders* in proportion to value-added contributions over the first 16 months (~750/month). `W3API` holders will decide on further fundraising and token emission plans after the 16 month seed period.
 
 ## Use of Funds
 
-In the first 12 months, it is anticipated that the DAO will allocate funds for:
+In the first 16 months, it is anticipated that the DAO will allocate funds for:
 - Development - $42,000 / month
 - Ops & Adoption - $15,000 / month
 - Legal & SaaS - $5,500 / month
@@ -107,9 +104,9 @@ Holders of `W3API` do not constitute any sort of partnership or joint venture, o
 Once your token request is approved, you instantly have the power to vote on all on-chain decisions, such as spending funds or minting new tokens.
 
 **What funder protections are there?**  
-1. *Seed Funders* will approach equal voting power to *Pre-Seed Builders* as the seed round reaches conclusion. This means that funders can protect their own best interests through voting. 
+1. *Seed Funders* will approach equal voting power to *Pre-Seed Builders* as the seed round reaches conclusion (December 31st). This means that funders can protect their own best interests through voting. 
 2. Furthermore, the *Support* level is set at 60% to ensure that EVERY decision has mutual support from both builders and funders.
 3. Lastly, the initial token holders are long-term committed builders (see [Pre-Seed Builders](#Pre-Seed-Builders) above) who have been contributing since before the project was funded.
 
 **What about vesting?**  
-`W3API` tokens are initially set to be non-transferable. The DAO can decide to change this in the future and issue new tokens to contributors through token timelocks or vesting contracts.
+`W3API` tokens are initially set to be non-transferable. The DAO can decide to change this in the future and mint tokens to contributors via timelock or vesting contracts.
