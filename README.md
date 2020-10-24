@@ -1,5 +1,5 @@
 # Web3API DAO
-[![Generic badge](https://img.shields.io/badge/STATUS-MAINNET-GREEN.svg)](https://client.aragon.org/#/w3api)
+[![Generic badge](https://img.shields.io/badge/Wallet-Aragon-52EBFF.svg)](https://client.aragon.org/#/w3api) [![Generic badge](https://img.shields.io/badge/Consensus-Snapshot-f6ad32.svg)](https://snapshot.page/#/web3-api)  
 
 The Web3API DAO is responsible for stewarding the Web3API ecosystem. `W3API` governance token holders will have immediate control of the:
 - Treasury
@@ -34,7 +34,7 @@ To become a *Seed Builder*:
 2. Duplicate the [`TEMPLATE.md`](./roadmaps/TEMPLATE.md) file in the [`./roadmaps`](./roadmaps) folder.
 3. Name the file, complete all required fields, and feel free to get creative with anything else you'd like to add.
 4. Open a PR against [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch.
-5. Create an informational proposal in the [DAO's voting app](https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/), linking to the open PR.
+5. Create a proposal in the [DAO's snapshot space](https://snapshot.page/#/web3-api), linking to the open PR.
 6. If the DAO proposal passes, the PR can then be merged into master.
 
 *Seed Builders* are granted funds on a per-project basis by the Web3API DAO. Each funded project will have its own roadmap that helps the DAO budget, maintain accountability, and schedule developments.
