@@ -72,7 +72,7 @@ All `W3API` will be sent to individual builders. This will be weighted based on 
 | [Ori](https://github.com/orishim) | Marketing (TODO), Biz Dev (TODO) | TBD | 0x639749b7b08aee65039c21d8a411103c6cebebf0 |
 | [Ingamar](https://twitter.com/Ingalandia) | Marketing (TODO), Biz Dev (TODO) | TBD | 0x58b753f0c417494226af608b63e80028255cbc64 |
 | [Roberto](https://github.com/rihp) | Marketing (TODO), Biz Dev (TODO) | TBD | 0x37341cbb14c5f128a70b149726ad8b2ce6f4c793 |
-| [Phil](https://github.com/PhilH) | Marketing (TODO), Biz Dev (TODO) | TBD | 0xaa01dec5307cf17f20881a3286dcaa062578cea7 |
+| [Phil](https://github.com/PhilH) | Marketing (0), Biz Dev (0.1) | TBD | 0xaa01dec5307cf17f20881a3286dcaa062578cea7 |
 
 # About You
 dOrg is a full stack Web3 development collective. It's been building in the Web3 space for almost 2 years now, working with some of Web3's top protocols: https://dorg.tech  
