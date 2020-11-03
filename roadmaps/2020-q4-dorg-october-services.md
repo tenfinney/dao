@@ -65,7 +65,7 @@ All `W3API` will be sent to individual builders. This will be weighted based on 
 - Marketing @ 0.5 FTE = 5.56 W3API  
 
 | Name | Claims (0-1) | W3API | Address |
-|-|-|-|-|-|
+|-|-|-|-|
 | [Jordan](https://github.com/dOrgJelli) | Tech (0.8), Marketing (0.1), Biz Dev (0.1) | TBD | 0xB1B7586656116D546033e3bAFF69BFcD6592225E |
 | [Zachary](https://github.com/remscar) | Tech (TODO) | TBD | 0x7f3a152f09324f2aee916ce069d3908603449173 |
 | [Cesar](https://github.com/cbrzn) | Tech (TODO) | TBD | 0x61ffe691821291d02e9ba5d33098adcee71a3a17 |
