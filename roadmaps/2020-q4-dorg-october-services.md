@@ -68,7 +68,7 @@ All `W3API` will be sent to individual builders. This will be weighted based on 
 |-|-|-|-|
 | [Jordan](https://github.com/dOrgJelli) | Tech (0.8), Marketing (0.1), Biz Dev (0.1) | TBD | 0xB1B7586656116D546033e3bAFF69BFcD6592225E |
 | [Zachary](https://github.com/remscar) | Tech (0.65) | TBD | 0x7f3a152f09324f2aee916ce069d3908603449173 |
-| [Cesar](https://github.com/cbrzn) | Tech (TODO) | TBD | 0x61ffe691821291d02e9ba5d33098adcee71a3a17 |
+| [Cesar](https://github.com/cbrzn) | Tech (0.25) | TBD | 0x61ffe691821291d02e9ba5d33098adcee71a3a17 |
 | [Ori](https://github.com/orishim) | Marketing (TODO), Biz Dev (TODO) | TBD | 0x639749b7b08aee65039c21d8a411103c6cebebf0 |
 | [Ingamar](https://twitter.com/Ingalandia) | Marketing (TODO), Biz Dev (TODO) | TBD | 0x58b753f0c417494226af608b63e80028255cbc64 |
 | [Roberto](https://github.com/rihp) | Marketing (0.3), Biz Dev (0.3) | TBD | 0x37341cbb14c5f128a70b149726ad8b2ce6f4c793 |
