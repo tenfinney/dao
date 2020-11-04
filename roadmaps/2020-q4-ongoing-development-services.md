@@ -1,5 +1,9 @@
 # Ongoing Development Services
 
+| Funds Requested | Time Period | Estimated Effort |
+|-|-|-|
+| $36,000 + 50 `W3API` | Sep 1 - Oct 31, 2020 | 4.50 FTEs (792 hrs) |
+
 ## Summary
 
 dOrg will provide the following services:
@@ -17,7 +21,7 @@ We plan to work in a loose agile manner, where we:
 
 The goal is to walk the line between concrete planning and ad-hoc maneuvering based on higher priorities.
 
-### Tech
+### Tech - 2.00 FTEs (352 hrs)
 1. [Web3API JS Client Browser Support](https://github.com/Web3-API/prototype/issues/28)  
     * [Ongoing - 75% Complete](https://github.com/Web3-API/prototype/commits/issue-28?since=2020-10-01&until=2020-11-01)
       * Assemblyscript MsgPack Encoding/Decoding
@@ -38,13 +42,13 @@ The goal is to walk the line between concrete planning and ad-hoc maneuvering ba
       * JS Web3API Module Specification
       * Query Resolution To JS
 
-### Ops
+### Ops - 2.00 FTEs (352 hrs)
 1. OKR Development ([in progress](https://docs.google.com/document/d/1q4t2uFhRYxwcS-mijJQL_tqPFoiNhOZiD4mnNUAlZaQ/))
 2. Financial Projections ([in progress](docs.google.com/spreadsheets/d/1sBGH2DuNlUGBkPFMRkp4wuZr3N41IX5CGbeUzvGN0S8))
 3. Fundraising ([$230K raised](https://github.com/Web3-API/dao/blob/master/token-allocations/seed-funders.csv))
 4. Partner Project Onboarding ([partners listed on website](https://web3api.dev), [MOUs ratified](https://github.com/Web3-API/dao/pull/9))
 
-### Content
+### Content - 0.50 FTEs (88 hrs)
 1. New Developer Video ([done](https://youtu.be/ojbMBN9pga4))
 3. New Seed Video ([done](https://youtu.be/xmfBEuSQLjM))
 4. DAO Spec ([done](https://github.com/Web3-API/dao/blob/master/README.md))
@@ -54,18 +58,7 @@ The goal is to walk the line between concrete planning and ad-hoc maneuvering ba
 8. Web3API Problem / Solution Article (drafted - DM @Ingalandia)
 9. Twitter Management (admins on-boarded, [post 1](https://twitter.com/Web3API/status/1317426380561416192), [post 2](https://twitter.com/Web3API/status/1317556522784821248))
 
-## Quote
-
-**Funds Requested:** $36,000 + 50 `W3API`  
-
-**Timeframe**: October 1 - 31, 2020
-
-**Estimated Effort:** 4.50 FTEs (792 hrs)
-- Tech 2.00 FTE (352 hrs)
-- Ops 2.00 FTE (352 hrs)
-- Content 0.50 FTE (88 hrs)
-
-### Fund Distribution
+## Fund Distribution
 All stable coins will be sent to the dOrg DAO @ 0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6.
 
 All `W3API` will be sent to individual builders:
@@ -79,6 +72,7 @@ All `W3API` will be sent to individual builders:
 | [Ingamar](https://twitter.com/Ingalandia) | TBD | 0x58b753f0c417494226af608b63e80028255cbc64 |
 | [Roberto](https://github.com/rihp) | TBD | 0x37341cbb14c5f128a70b149726ad8b2ce6f4c793 |
 | [PhilH](https://github.com/PhilH) | TBD | 0xaa01dec5307cf17f20881a3286dcaa062578cea7 |
+| Alex | TBD | 0xa13Ee4362f171B5c62be230E5EB2fEe8C375b875 |
 
 ## About You
 dOrg is a full stack Web3 development collective. It's been building in the Web3 space for almost 2 years now, working with some of Web3's top protocols: https://dorg.tech  
