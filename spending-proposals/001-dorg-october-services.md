@@ -1,4 +1,4 @@
-# Ongoing Development Services
+# October Services
 
 | Funds Requested | Time Period | Estimated Effort |
 |-|-|-|
