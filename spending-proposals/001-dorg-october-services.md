@@ -65,14 +65,14 @@ All `W3API` will be sent to individual builders:
 
 | Name | W3API | Address |
 |-|-|-|
-| [Jordan](https://github.com/dOrgJelli) | TBD | 0xB1B7586656116D546033e3bAFF69BFcD6592225E |
-| [Zachary](https://github.com/remscar) | TBD | 0x7f3a152f09324f2aee916ce069d3908603449173 |
-| [Cesar](https://github.com/cbrzn) | TBD | 0x61ffe691821291d02e9ba5d33098adcee71a3a17 |
-| [Ori](https://github.com/orishim) | TBD | 0x639749b7b08aee65039c21d8a411103c6cebebf0 |
-| [Ingamar](https://twitter.com/Ingalandia) | TBD | 0x58b753f0c417494226af608b63e80028255cbc64 |
-| [Roberto](https://github.com/rihp) | TBD | 0x37341cbb14c5f128a70b149726ad8b2ce6f4c793 |
-| [PhilH](https://github.com/PhilH) | TBD | 0xaa01dec5307cf17f20881a3286dcaa062578cea7 |
-| Alex | TBD | 0xa13Ee4362f171B5c62be230E5EB2fEe8C375b875 |
+| [Jordan](https://github.com/dOrgJelli) | 27.14 | 0xB1B7586656116D546033e3bAFF69BFcD6592225E |
+| [Zachary](https://github.com/remscar) | 3.76 | 0x7f3a152f09324f2aee916ce069d3908603449173 |
+| [Cesar](https://github.com/cbrzn) | 2.82 | 0x61ffe691821291d02e9ba5d33098adcee71a3a17 |
+| [Ori](https://github.com/orishim) | 5.46 | 0x639749b7b08aee65039c21d8a411103c6cebebf0 |
+| [Ingamar](https://twitter.com/Ingalandia) | 2.35 | 0x58b753f0c417494226af608b63e80028255cbc64 |
+| [Roberto](https://github.com/rihp) | 6.77 | 0x37341cbb14c5f128a70b149726ad8b2ce6f4c793 |
+| [PhilH](https://github.com/PhilH) | 1.13 | 0xaa01dec5307cf17f20881a3286dcaa062578cea7 |
+| Alex | 0.57 | 0xa13Ee4362f171B5c62be230E5EB2fEe8C375b875 |
 
 ## About You
 dOrg is a full stack Web3 development collective. It's been building in the Web3 space for almost 2 years now, working with some of Web3's top protocols: https://dorg.tech  
