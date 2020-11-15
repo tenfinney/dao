@@ -13,6 +13,11 @@ A,35000,175,"https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9
 A,2000,10,"https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/16/"
 A,7500,37.5,"https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/17/"
 A,7500,37.5,"https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/18/"
+A,2000,10,"https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/19/"
+A,2000,10,"https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/22/"
+A,5000,25,"https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/23/"
+A,1000,5,"https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/24/"
+A,1000,5,"https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/25/"
 B,15000,60,"https://alchemy.daostack.io/dao/0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6/proposal/0xeb4b603ae166b9e7807c5ddaf04a8bf537881f4ab06367a16189398d8a83fb05 
 https://alchemy-xdai.herokuapp.com/dao/0x94a587478c83491b13291265581cb983e7feb540/proposal/0x527f6bc8336c28fe220dd7c377e133305898a2d5d36c4a7b95af41a4701b8c3e 
 https://alchemy-xdai.herokuapp.com/dao/0x94a587478c83491b13291265581cb983e7feb540/proposal/0x9ace39a76641b6f14b0b9c56c2d6ad12886c87a5588ce42aea81fa70f71221f5 
@@ -26,4 +31,4 @@ https://alchemy-xdai.herokuapp.com/dao/0x94a587478c83491b13291265581cb983e7feb54
 ,,,
 Batch,A,B,C
 Price ($),$200,$250,$325
-Unminted (W3API),"320","1,440","1,000"
+Unminted (W3API),"265","1,440","1,000"
