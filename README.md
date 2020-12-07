@@ -14,9 +14,9 @@ In the future, it is anticipated that the DAO will also govern:
 
 ## Getting Started
 
-### Seed Funder
+### Pre-Seed Funder
 
-To become a *Seed Funder*:
+To become a *Pre-Seed Funder*:
 
 1. Go to the [DAO's Token Request App](https://client.aragon.org/#/w3api/0x9bb4ea752a3096104c7765ad318b0f9cabaaf95f/).
 2. Click **Connect Wallet** in the top right corner and select your wallet of choice (i.e. Metamask).
@@ -28,9 +28,9 @@ To become a *Seed Funder*:
 
 `W3API` holders will receive this information and vote on your request. If approved, your funds will transfer to the DAO and `W3API` will be minted to your wallet. If rejected, you will be able to withdraw your funds. You may also withdraw your funds at any time before the request is approved.
 
-### Seed Builder
+### Dev Mining
 
-To become a *Seed Builder*:
+To become a *Builder*:
 1. Fork [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch'.
 2. Duplicate the [`TEMPLATE.md`](./spending-proposals/TEMPLATE.md) file in the [`./spending-proposals`](./spending-proposals) folder.
 3. Name the file, complete all required fields, and feel free to get creative with anything else you'd like to add.
@@ -38,7 +38,7 @@ To become a *Seed Builder*:
 5. Create a proposal in the [DAO's snapshot space](https://snapshot.page/#/web3-api), linking to the open PR.
 6. If the DAO proposal passes, the PR can then be merged into master.
 
-*Seed Builders* are granted funds on a per-project basis by the Web3API DAO. Each funded project will have its own spending proposal that helps the DAO budget, maintain accountability, and schedule developments.
+*Builders* are granted funds and `W3API` tokens on a per-project basis by the Web3API DAO. Projects are approved ahead of time to help manage the DAO budget, maintain accountability, and schedule developments.
 
 ## Token Distribution
 > NOTE: Tokens are initially set to be non-transferable.
@@ -48,8 +48,8 @@ To become a *Seed Builder*:
 ### Pre-Seed Builders
 At launch 4,000 `W3API` are minted to *Pre-Seed Builders* in proportion to work contributed before launch on October 1st (viewable [here](./token-allocations/pre-seed-builders.csv)).
 
-### Seed Funders
-4,000 `W3API` will be minted to *Seed Funders*, with a goal of raising $1M by December 31st. Tokens will be priced in three batches (viewable [here](./token-allocations/seed-funders.csv))
+### Pre-Seed Funders
+4,000 `W3API` will be minted to *Pre-Seed Funders*, with a goal of raising $1M by December 31st. Tokens will be priced in three batches (viewable [here](./token-allocations/pre-seed-funders.csv))
 
   | Batch | Supply | Price |
   |-|-|-|
@@ -57,10 +57,10 @@ At launch 4,000 `W3API` are minted to *Pre-Seed Builders* in proportion to work 
   | *B* | 1,500 `W3API`| $250 |
   | *C* | 1,000 `W3API`| $325 |  
 
-> NOTE: If all 4,000 `W3API` are not sold by December 31st, the remaining `W3API` *Seed Funder* allocation will be distributed pro-rata to existing *Seed Funders*.
+> NOTE: If all 4,000 `W3API` are not sold by December 31st, the remaining `W3API` *Pre-Seed Funder* allocation will be distributed pro-rata to existing *Pre-Seed Funders*.
 
-### Seed Builders
-12,000 `W3API` will be minted to *Seed Builders* in proportion to value-added contributions over the first 16 months (~750/month). `W3API` holders will decide on further fundraising and token emission plans after the 16 month seed period.
+### Dev Mining
+12,000 `W3API` will be minted to *Builders* in proportion to value-added contributions over the first 16 months (~750/month). `W3API` holders will decide on further fundraising and token emission plans after the 16 month pre-seed period.
 
 ## Use of Funds
 
@@ -73,7 +73,7 @@ In the first 16 months, it is anticipated that the DAO will allocate funds for:
 
 With the goal of delivering the following in 2021:
 
-<img src="./img/seed-goals.png" width="600px">
+<img src="./img/roadmap.png" width="600px">
 
 ## DAO Configuration
 
@@ -97,7 +97,7 @@ See the full configuration [here](https://client.aragon.org/#/w3api/permissions/
 
 ## Legal
 
-Holders of `W3API` do not constitute any sort of partnership or joint venture, only the right to participate in the governance of the DAO. Further, becoming a Seed Builder does not constitute any sort of partnership, joint venture, principal-agent relationship, or an employer-employee relationship. 
+Holders of `W3API` do not constitute any sort of partnership or joint venture, only the right to participate in the governance of the DAO. Further, becoming a Builder does not constitute any sort of partnership, joint venture, principal-agent relationship, or an employer-employee relationship. 
 
 ## FAQ
 
@@ -105,7 +105,7 @@ Holders of `W3API` do not constitute any sort of partnership or joint venture, o
 Once your token request is approved, you instantly have the power to vote on all on-chain decisions, such as spending funds or minting new tokens.
 
 **What funder protections are there?**  
-1. *Seed Funders* will approach equal voting power to *Pre-Seed Builders* as the seed round reaches conclusion (December 31st). This means that funders can protect their own best interests through voting. 
+1. *Pre-Seed Funders* will approach equal voting power to *Pre-Seed Builders* as the round reaches conclusion (December 31st). This means that funders can protect their own best interests through voting. 
 2. Furthermore, the *Support* level is set at 60% to ensure that EVERY decision has mutual support from both builders and funders.
 3. Lastly, the initial token holders are long-term committed builders (see *[Pre-Seed Builders](#Pre-Seed-Builders)* above) who have been contributing since before the project was funded.
 
