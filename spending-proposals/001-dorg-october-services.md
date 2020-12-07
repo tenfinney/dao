@@ -45,7 +45,7 @@ The goal is to walk the line between concrete planning and ad-hoc maneuvering ba
 ### Ops - 2.00 FTEs (352 hrs)
 1. OKR Development ([in progress](https://docs.google.com/document/d/1q4t2uFhRYxwcS-mijJQL_tqPFoiNhOZiD4mnNUAlZaQ/))
 2. Financial Projections ([in progress](docs.google.com/spreadsheets/d/1sBGH2DuNlUGBkPFMRkp4wuZr3N41IX5CGbeUzvGN0S8))
-3. Fundraising ([$230K raised](https://github.com/Web3-API/dao/blob/master/token-allocations/seed-funders.csv))
+3. Fundraising ([$230K raised](https://github.com/Web3-API/dao/blob/master/token-allocations/pre-seed-funders.csv))
 4. Partner Project Onboarding ([partners listed on website](https://web3api.dev), [MOUs ratified](https://github.com/Web3-API/dao/pull/9))
 
 ### Content - 0.50 FTEs (88 hrs)
