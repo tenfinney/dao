@@ -39,9 +39,11 @@ https://alchemy-xdai.herokuapp.com/dao/0x94a587478c83491b13291265581cb983e7feb54
 https://alchemy-xdai.herokuapp.com/dao/0x94a587478c83491b13291265581cb983e7feb540/proposal/0x59afe6129ecedf8b3b6bb61ef3b2fcaa3b4ecbcf3841860349ce1ef57b4d7f6b "
 B,30000,120,"https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/46/"
 B,21250,85,"https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/47/"
+B,5500,22,"https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/49/"
+B,20000,80,"https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/50/"
 ,,,
 ,,,
 Batch,A,B,C
 Price ($),$200,$250,$325
-W3API Remaining,"0","1,235","1,000"
-$ Remaining,"$0","$308,750","$325,000"
+W3API Remaining,"0","1,133","1,000"
+$ Remaining,"$0","$283,250","$325,000"
