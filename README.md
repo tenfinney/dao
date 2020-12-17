@@ -54,7 +54,7 @@ At launch 4,000 `W3API` are minted to *Pre-Seed Builders* in proportion to work 
   | Batch | Supply | Price |
   |-|-|-|
   |~~*A*~~ (filled)|~~1,500 `W3API`~~|~~$200~~|
-  | *B* | 1,500 `W3API`| $250 |
+  |~~*B*~~ (filled)|~~1,500 `W3API`~~|~~$250~~|
   | *C* | 1,000 `W3API`| $325 |  
 
 > NOTE: If all 4,000 `W3API` are not sold by December 31st, the remaining `W3API` *Pre-Seed Funder* allocation will be distributed pro-rata to existing *Pre-Seed Funders*.
