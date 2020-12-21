@@ -1,5 +1,6 @@
 # Objectives
-TODO: talk about what our objectives are
+
+Mantaining, improving and publishing all public facing content.
 
 # Domains
 | Domain | Description | POCs |  
@@ -8,5 +9,7 @@ TODO: talk about what our objectives are
 | Twitter | https://twitter.com/web3api | [Ingamar]() |  
 
 # Coordination
-Keybase Chat: ...  
-Google Calendar: ...  
+
+[Keybase Chat](#)
+
+[Google Calendar](https://calendar.google.com/calendar/embed?src=c_jpqrmmdu58tc2flstpdebr40ng%40group.calendar.google.com)
