@@ -1,32 +1,55 @@
+```
+TODO:
+- [ ] fix dev mining steps with new process
+- [ ] Builder onboarding flow
+
+1. DAO `dao/readme.md` points to `dao/contribute.md`
+1. `dao/contribute.md` links to `roadmap/readme.md`
+1. `roadmap/readme.md` links to `roadmap/projects/1`
+1. roadmap links to specific issues
+1. specific issues can have assigned builders 
+
+** Assigned Squad **
+This issue has not been assigned yet, [Click here  if you'd like to help solving it](https://github/Web3-API/dao/builder-squads/)
+[]
+
+** Point of Contact **
+[BuilderNameHere](https://github/Web3-API/dao/builder-squads/builders/buildername.md)
+
+1. fork the `dao` repo
+   - add `NN-spending_proposal.md`, following the template
+   - Add builder profile (if necessary)
+
+1. Submit PR
+
+1. Gather feedback from the DAO and other Builders
+   - Share your proposal on community channels
+   - Submit to snapshot if necessary
+   - Modify the spending proposal to achieve concensus
+  
+1. Once concensus is reached in the community, the spending proposal should be merged to master and work can be initiated.
+
+1. When payment is scheduled, the assigned squad should submit the payment proposal to the Web3API DAO and notify other builders to check the deliverables and to vote on the payment proposal.
+
+```
+
 # Web3API DAO
 [![Generic badge](https://img.shields.io/badge/Wallet-Aragon-52EBFF.svg)](https://client.aragon.org/#/w3api) [![Generic badge](https://img.shields.io/badge/Consensus-Snapshot-f6ad32.svg)](https://snapshot.page/#/web3-api)  
 
 The Web3API DAO is responsible for stewarding the Web3API ecosystem. `W3API` governance token holders will have immediate control of the:
-- Treasury
+- Web3API [roadmap](https://github.com/Web3-API/roadmap)
+- [Treasury](https://client.aragon.org/#/w3api/0x8fe59d8fb5ffd3509e5cb3d386be8bdb2d363662/)
 - `W3API` token issuance
 - DAO configuration
 - ENS domain (web3api.eth)
 
 In the future, it is anticipated that the DAO will also govern:
-- Web3API repositories
+
+- Web3API [repositories](https://github.com/Web3-API)
 - Web3Hub platform deployments
 - DAO-verified APIs (hosted at web3api.eth subdomains)
 
 ## Getting Started
-
-### Pre-Seed Funder
-
-To become a *Pre-Seed Funder*:
-
-1. Go to the [DAO's Token Request App](https://client.aragon.org/#/w3api/0x9bb4ea752a3096104c7765ad318b0f9cabaaf95f/).
-2. Click **Connect Wallet** in the top right corner and select your wallet of choice (i.e. Metamask).
-3. Click **New Request** below that
-4. In **Offered Amount** enter the amount you would like to contribute (DAI, USDC, USDT, or TUSD).
-5. In **Requested Amount** enter the **Offered Amount** divided by the current batch price (*$250*). This is the number of `W3API` you will receive.
-6. Press **Create Request** to initiate the proposal and deposit your funds.
-7. Fill out [this quick form](https://airtable.com/shrE0bMs1D07FV3oO).
-
-`W3API` holders will receive this information and vote on your request. If approved, your funds will transfer to the DAO and `W3API` will be minted to your wallet. If rejected, you will be able to withdraw your funds. You may also withdraw your funds at any time before the request is approved.
 
 ### Dev Mining
 
@@ -49,18 +72,11 @@ To become a *Builder*:
 At launch 4,000 `W3API` are minted to *Pre-Seed Builders* in proportion to work contributed before launch on October 1st (viewable [here](./token-allocations/pre-seed-builders.csv)).
 
 ### Pre-Seed Funders
-4,000 `W3API` will be minted to *Pre-Seed Funders*, with a goal of raising $1M by December 31st. Tokens will be priced in three batches (viewable [here](./token-allocations/pre-seed-funders.csv))
-
-  | Batch | Supply | Price |
-  |-|-|-|
-  |~~*A*~~ (filled)|~~1,500 `W3API`~~|~~$200~~|
-  | *B* | 1,500 `W3API`| $250 |
-  | *C* | 1,000 `W3API`| $325 |  
-
-> NOTE: If all 4,000 `W3API` are not sold by December 31st, the remaining `W3API` *Pre-Seed Funder* allocation will be distributed pro-rata to existing *Pre-Seed Funders*.
+4,000 `W3API` were minted to *Pre-Seed Funders*, with a goal of raising $1M to sustain the project. Tokens were distributed in three batches (viewable [here](./token-allocations/pre-seed-funders.csv))
 
 ### Dev Mining
 12,000 `W3API` will be minted to *Builders* in proportion to value-added contributions over the first 16 months (~750/month). `W3API` holders will decide on further fundraising and token emission plans after the 16 month pre-seed period.
+
 
 ## Use of Funds
 
@@ -74,6 +90,9 @@ In the first 16 months, it is anticipated that the DAO will allocate funds for:
 With the goal of delivering the following in 2021:
 
 <img src="./img/roadmap.png" width="600px">
+
+You can track the roadmap objectives as in the  
+[roadmap project board](https://github.com/Web3-API/roadmap)
 
 ## DAO Configuration
 
@@ -103,11 +122,6 @@ Holders of `W3API` do not constitute any sort of partnership or joint venture, o
 
 **What can I do with my `W3API` tokens?**  
 Once your token request is approved, you instantly have the power to vote on all on-chain decisions, such as spending funds or minting new tokens.
-
-**What funder protections are there?**  
-1. *Pre-Seed Funders* will approach equal voting power to *Pre-Seed Builders* as the round reaches conclusion (December 31st). This means that funders can protect their own best interests through voting. 
-2. Furthermore, the *Support* level is set at 60% to ensure that EVERY decision has mutual support from both builders and funders.
-3. Lastly, the initial token holders are long-term committed builders (see *[Pre-Seed Builders](#Pre-Seed-Builders)* above) who have been contributing since before the project was funded.
 
 **What about vesting?**  
 `W3API` tokens are initially set to be non-transferable. The DAO can decide to change this in the future and mint tokens to contributors via timelock or vesting contracts.
