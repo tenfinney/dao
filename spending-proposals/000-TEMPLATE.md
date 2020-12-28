@@ -1,8 +1,8 @@
 # Title
 
-| Funds Requested | Time Period | Estimated Effort |
-|-|-|-|
-| $ + `W3API` |  | Hours or other estimate |
+| Roadmap Item | Funds Requested | Time Period | Estimated Effort |
+|-|-|-|-|
+| [Issue NºX](https://github.com/Web3-API/roadmap/issues/TheIssueNumberHere) | $ + `W3API` |  | Hours or other estimate |
 
 ## Summary
 
