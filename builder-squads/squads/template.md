@@ -2,6 +2,11 @@
 
 The objectives of the squad should be listed here, and summarize both the interests and skillsets of the squad.
 
+# Skills required
+
+Section in which the skills needed for pertaining to a given squad are to be laid out.
+(e. g. Coding, marketing, business management)
+
 # Committed milestones
 Milestones are created as individual issues and posted in the [Web3API public roadmap](https://github.com/Web3-API/roadmap). 
 
