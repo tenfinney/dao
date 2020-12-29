@@ -9,6 +9,10 @@ TODO:
   1. If no builder is assigned, then the users should be able to know how to get it assigned to them [by following this guide](https://github.com/Web3-API/dao/spending-proposals/readme.md)
 
 - [] List correct public channels of communication
+
+
+** Point of Contact **
+[BuilderNameHere](https://github/Web3-API/dao/builder-squads/builders/buildername.md)
 ```
 
 # Contributing to the Web3API standard
@@ -21,8 +25,7 @@ You're also welcome to:
 - 
   1. Introduce yourself in the [Public Telegram Dev Chat](#linkneeded) and the Keybase Public Community
   1. Ask questions. While we try to document this process, there might be other things that need clarification.
-  1. Suggest improvements and project strategies we could consider. Make sure you reach the right Point of Contact who finds that suggestion relevant and can help you implementing
-.
+  1. Suggest improvements and project strategies we could consider. Make sure you reach out to the right Point of Contact who finds that suggestion relevant and can help you implementing
 
 # Cotributing FAQs 
 

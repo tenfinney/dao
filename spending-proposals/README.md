@@ -2,8 +2,19 @@
 TODO:
 - Process has duplicate instructions, merge into something that makes sense
 - [ ] Define name: Spending Proposals vs Work Proposals
+- [ ] Issues numbers should be linked to the work proposals number nomenclature
 ```
+# Work Proposals
+
+Work proposals are used approve commitment to tackle isues on the [Web3API public roadmap](https://github.com/Web3-API/roadmap)
+
 # How to create work proposals
+
+1. fork the `dao` repo
+   - add `NN-spending_proposal.md`, following the template
+   - Add builder profile (if necessary)
+1. Once concensus is reached in the community, the spending proposal should be merged to master and work can be initiated.
+
 
 1. Before you start make sure you fully understand the [DAO Readme.md](../readme.md) and the [Contribution Guidelines](../contribute.md)
 1. Consider an item from the [Web3API public roadmap](https://github.com/Web3-API/roadmap) you want to tackle.
@@ -25,3 +36,10 @@ TODO:
 4. Open a PR against [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch.
 5. Create a proposal in the [DAO's snapshot space](https://snapshot.page/#/web3-api), linking to the open PR.
 6. If the DAO proposal passes, the PR can then be merged into master.
+
+
+
+
+
+
+1. When payment is scheduled, the assigned squad should submit the payment proposal to the Web3API DAO and notify other builders to check the deliverables and to vote on the payment proposal.

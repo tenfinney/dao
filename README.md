@@ -1,19 +1,7 @@
 ```
 TODO:
-- [ ] fix dev mining steps with new process
-- [ ] Builder onboarding flow
+- [ ] fix onboarding steps with new process
 
-** Point of Contact **
-[BuilderNameHere](https://github/Web3-API/dao/builder-squads/builders/buildername.md)
-
-1. fork the `dao` repo
-   - add `NN-spending_proposal.md`, following the template
-   - Add builder profile (if necessary)
-
-  
-1. Once concensus is reached in the community, the spending proposal should be merged to master and work can be initiated.
-
-1. When payment is scheduled, the assigned squad should submit the payment proposal to the Web3API DAO and notify other builders to check the deliverables and to vote on the payment proposal.
 
 ```
 
@@ -35,17 +23,13 @@ In the future, it is anticipated that the DAO will also govern:
 
 # Getting Started
 
-## To become a *Builder* read the instructions in the [`contribute.md` file](./contribute.md):
+### To become a *Builder* read the instructions in the [`CONTRIBUTE.md` file](./CONTRIBUTE.md):
 
 # FAQ
 
 ### What are the benefits of being a builder?
 
 *Builders* are granted funds and `W3API` tokens on a per-project basis by the Web3API DAO. Projects are approved ahead of time to help manage the DAO budget, maintain accountability, and schedule developments.
-
-### What is the W3API Token?
-
-The W3API Tokens represent government rights on the Web3API DAO. The tokens are initially set to be non-transferable. Detail on token distribution can be found [here](./token.md)
 
 ## How is the Web3API DAO using its funds?
 
@@ -59,6 +43,10 @@ With the goal of delivering the items listed on the [Web3API public roadmap](htt
 ## What is the current DAO Configuration?
 
 The Web3API DAO is currently using the Aragon Protocol. You can see which governance parameters and Aragon Apps the DAO is using [in the `dao_config.md`](./dao_config.md). You can also see the full configuration [here](https://client.aragon.org/#/w3api/permissions/).
+
+### What is the W3API Token?
+
+The W3API Tokens represent government rights on the Web3API DAO. The tokens are initially set to be non-transferable. Detail on token distribution can be found [here](./token.md)
 
 # Legal
 
