@@ -1,5 +1,13 @@
 ## Web3API DAO Configuration
 
+
+Initial governance parameters are as follows:
+| Parameter | Value | Description |
+|-|-|-|
+| *Minimum Approval* | 10% | Percentage of the total token supply that is required to vote “Yes” on a proposal before it can be approved. |
+| *Support* | 60% | Relative percentage of tokens that are required to vote “Yes” for a proposal to be approved. |
+| *Vote Duration* | 7 days| Maximum length of time that the vote will be open for participation. |
+
 | App | Address | Description |
 |-|-|-|
 | *[Voting](https://help.aragon.org/article/19-voting)* | 0x5f78d0668ba666b4ed9674b313419d9db6cd48a6 | Used to create and participate in votes. Votes can be linked to an action, such as minting `W3API` or transferring funds, or be purely informative. |

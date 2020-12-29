@@ -1,41 +1,51 @@
 ```
-TODO: Confirm entire flow
+TODO:
+
+- [] Confirm entire flow
 1. DAO `dao/readme.md` points to `dao/contribute.md`
 1. `dao/contribute.md` links to `roadmap/readme.md`
-1. `roadmap/readme.md` links to `roadmap/projects/1`
-1. roadmap links to specific issues
-1. specific issues can have assigned builders 
+  1. `roadmap/readme.md` links to `roadmap/projects/1. `roadmap/readme.md` explains how to create new issues.
+1. Specific issues can have assigned builders
+  1. If no builder is assigned, then the users should be able to know how to get it assigned to them [by following this guide](https://github.com/Web3-API/dao/spending-proposals/readme.md)
+
+- [] List correct public channels of communication
 ```
 
 # Contributing to the Web3API standard
 
-You can see the overview of the current [roadmap](https://github.com/Web3-API/roadmap), and collaborate on tackling speciific milestones with other builders. 
+If you've reached this page it's because you're interested in contributing to the Web3API standard.
 
-- Introduce yourself
-  1. Public Telegram Dev Chat
-  1. Keybase Community
-- Identify interests in roadmap
-  1. Start small: Find the area where you'd be able to provide the most value
-  1. Check if it has been assigned to a squad
+To get you started, you can see the [Web3API public roadmap](https://github.com/Web3-API/roadmap), find an issue which you can tackle, and [follow these instructions](./spending-proposals/readme.md). 
 
-# Getting started 
+You're also welcome to:
+- 
+  1. Introduce yourself in the [Public Telegram Dev Chat](#linkneeded) and the Keybase Public Community
+  1. Ask questions. While we try to document this process, there might be other things that need clarification.
+  1. Suggest improvements and project strategies we could consider. Make sure you reach the right Point of Contact who finds that suggestion relevant and can help you implementing
+.
 
-1. Fork [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch'.
-2. Duplicate the [`TEMPLATE.md`](./spending-proposals/TEMPLATE.md) file in the [`./spending-proposals`](./spending-proposals) folder.
-3. Name the file, complete all required fields, and feel free to get creative with anything else you'd like to add.
-4. Open a PR against [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch.
-5. Create a proposal in the [DAO's snapshot space](https://snapshot.page/#/web3-api), linking to the open PR.
-6. If the DAO proposal passes, the PR can then be merged into master.
+# Cotributing FAQs 
 
+## Where are the unassigned issues? 
+  They're all in the Web3API public roadmap issue board, filter by unassigned. Or just go [here](https://github.com/web3-api/roadmap/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee)
 
-### When the task has been assigned to a squad 
-1. Find details of how that squad is tackling that milestone on the roadmap issue.
-1. Reach out to **Point of Contact** who will guide you in finding the right tasks to collaborate on.
+## Can I tackle more than one issue at the same time?
+  We recommend Starting small: Finding the area where you'd be able to provide the most value with the lowest risk should be the easiest way of getting started.
 
-### When the task is not assigned to a squad
+## Who approves the work proposals?
+  The DAO ultimately votes on work proposals to be approved or rejected.
+
+## How to select something from the roadmap:
+  1. Make sure that it is not assigned to a squad, or if another builder is planning to tackle it. If it's assigined you can reach the Point of Contact to jump in, or select another item from the roadmap.
+  1. If you think that we're missing something important that should be includeded in the roadmap, please reach out to the DAO through any of its public channels
+  
+### Can I still help with one issue that has been assigned?
+  If the specific issue is already assigned, you can still:
+  1. Find details of how that squad is tackling that milestone on the specific roadmap issue, by going to their approved [work proposals](./spending-proposals)
+  1. Reach out to **Point of Contact** listed on the spending proposal, and they should guide you in finding the right tasks to collaborate on.
+
+### Can I get listed as a Point of contact?
 1. Create a new squad or join an existing one
     - If you'll be the **Point of Contact** for that milestone, make sure to create your builder profile
     - If you're creating a new squad, make sure to also [create a squad using this template](../builder-squads/squads/readme.md)
 
-1. Draft a spending proposal using this template
-1. Gather feedback from DAO members other devs 
