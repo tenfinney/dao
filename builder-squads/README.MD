@@ -59,18 +59,15 @@ Sample and Proposed Squads to be Formed in 1Q 20201
 | 0 | Squad Name | Type | Point of Contact(s) |
 |-|-|-|-|
 | 1 | Core Development Squad | Tech | Jordan/Cesar/Marin/Phil/TBD/Scott |
-| 4 | Demo Squad | Tech | Scott/Jordan/Cesar/Marin/Phil/TBD |
-| 7 | Documentation Squad | Tech | Marin/Belma/Scott/TBD |
-| 8 | Implementation Squad | Tech | Jordan/TBD |
-| 9 | Grant/Hackathon Squad  | Hybrid | Ori/Ingamar/TBD |
-| 10 | UI/UX Squad | Hybrid | TBD |
-| 11 | Web3 Hub Squad | Hybrid | Andrew/TBD |
-| 15 | Marketing Squad | S&M | Rob/Steph/Ingamar/TBD |
-| 17 | Content Creator Squad 1 | S&M | Roberto/Scott/Dragos/TBD |
-| 19 | Business Develoment Squad 1 | S&M | Ori/Ingamar/TBD |
-
-plus whatever other squad may be important!!!
-
+| 2 | Demo Squad | Tech | Scott/Jordan/Cesar/Marin/Phil/TBD |
+| 3 | Documentation Squad | Tech | Marin/Belma/Scott/TBD |
+| 4 | Implementation Squad | Tech | Jordan/TBD |
+| 5 | Grant/Hackathon Squad  | Hybrid | Ori/Ingamar/TBD |
+| 6 | UI/UX Squad | Hybrid | TBD |
+| 7 | Web3 Hub Squad | Hybrid | Andrew/TBD |
+| 8 | Marketing Squad | S&M | Rob/Steph/Ingamar/TBD |
+| 9 | Content Creator Squad | S&M | Roberto/Scott/Dragos/TBD |
+| 10 | Business Develoment Squad | S&M | Ori/Ingamar/TBD |
 
 <hr>
 
