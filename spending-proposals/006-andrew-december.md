@@ -2,7 +2,7 @@
 
 | Funds Requested | Time Period | Estimated Effort |
 |-|-|-|
-| $5,000 + 5 `W3API` | Dec 1 - Dec 31, 2020 | 80 hours |
+| $2,500 + 10 `W3API` | Dec 1 - Dec 31, 2020 | 40 hours |
 
 *Note that timeline is an estimate for the deliverables listed below.*
 
@@ -19,6 +19,8 @@ This would essentially make the application a two-sided marketplace between appl
 
 
 ## Deliverables
+
+Work has been completed in December towards the following deliverables, although none are complete quite yet. Total project progress is currently ~80%.
 
 1. A product roadmap document for two separate release versions: 0.5 (MVP) and 1.0. Neither versions will include paid features, but will be specifically designed in a way to make supporting those as straightforward as possible.
 1a. Some time will be spent reviewing technical aspects of the Web3API project and speaking with community members about future project goals
