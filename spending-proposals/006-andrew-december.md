@@ -2,7 +2,7 @@
 
 | Funds Requested | Time Period | Estimated Effort |
 |-|-|-|
-| $2,500 + 10 `W3API` | Dec 1 - Dec 31, 2020 | 40 hours |
+| $2,500 + 7.5 `W3API` | Dec 1 - Dec 31, 2020 | 40 hours |
 
 *Note that timeline is an estimate for the deliverables listed below.*
 
