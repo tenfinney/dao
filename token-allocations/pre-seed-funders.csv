@@ -52,9 +52,14 @@ C,9750,30,"https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db
 C,15000,46.153,"https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/62/"
 C,5000,15.38,"https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/64/"
 C,4875,15,"https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/65/"
+C,25000,76.92,"https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/68/"
+C,40000,123.08,"https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/72/"
+C,40000,123.08,"https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/73/"
+C,6500,20,"https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/74/"
+C,33125,101.92,"https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/75/"
 ,,,
 ,,,
 Batch,A,B,C
 Price ($),$200,$250,$325
-W3API Remaining,"0","0","445"
-$ Remaining,"$0","$0","$144,625"
+W3API Remaining,"0","0","0"
+$ Remaining,"$0","$0","$0"
