@@ -1,8 +1,8 @@
 # Zachary Nawar November + December Services
 
-| Funds Requested | Time Period | Estimated Effort |
+| Funds Requested | Time Period | Actual Effort |
 |-|-|-|
-| 60 `W3API` | Nov 1 - Dec 31, 2020 | ~100 hours |
+| 15 `W3API` | Nov 1 - Dec 31, 2020 | 10 hours |
 
 ## Summary
 
@@ -14,9 +14,7 @@ I will be collaberating with dOrg in providing the following services:
 
 ## Deliverables
 
-NOTE: This deliverable log will be updated with a complete monthly log before each month's payout proposal.
-
-### November (~40 hours)
+### November (10 hours)
 
 ### Tech
 
@@ -27,11 +25,11 @@ NOTE: This deliverable log will be updated with a complete monthly log before ea
 1. [Web3API Schema Sanitization (~10% Complete)](https://github.com/Web3-API/prototype/issues/61)
 1. [Core HTTP Networking Plugin](https://github.com/Web3-API/prototype/issues/65)
 
-### December (~60 hours)
+Less time than originally estimated (40 hours) was spent due to outside conflicts, the requested amount has been reduced.
 
-### Tech 
+### December (0 hours)
 
-*Will carry over any uncompleted items from Novemeber and be updated ~December 1st*
+No work was done due to outside conflicts, the requested budget has been reduced.
 
 ## Fund Distribution
 
