@@ -61,22 +61,21 @@ The DAO plans to mint no more than 12,000 tokens to incentivize builders and bui
 
 |  | Period | Builder Payout Ceiling | DAO Treasury/Buffer |
 |-|-|-|-|
-| 1 | Sep-2020 | 200 | |
-| 2 | Oct-2020 | 200 | |
-| 3 | Nov-2020 | 400 | |
-| 4 | Dec-2020 | 400 | |
-| 5 | Jan-2021 | 500 | 400 |
-| 6 | Feb-2021 | 500 | 400 |
-| 7 | Mar-2021 | 500 | 400 |
-| 8 | Apr-2021 | 500 | 400 |
-| 9 | May-2021 | 500 | 400 |
-| 10 | Jun-2021 | 500 | 400 |
-| 11 | Jul-2021 | 500 | 400 |
-| 12 | Aug-2021 | 500 | 400 |
-| 13 | Sep-2021 | 500 | 400 |
-| 14 | Oct-2021 | 500 | 400 |
-| 15 | Nov-2021 | 500 | 400 |
-| 16 | Dec-2021 | 500 | 400 |
+| 1 | Oct-2020 | 400 | |
+| 2 | Nov-2020 | 400 | |
+| 3 | Dec-2020 | 400 | |
+| 4 | Jan-2021 | 500 | 400 |
+| 5 | Feb-2021 | 500 | 400 |
+| 6 | Mar-2021 | 500 | 400 |
+| 7 | Apr-2021 | 500 | 400 |
+| 8 | May-2021 | 500 | 400 |
+| 9 | Jun-2021 | 500 | 400 |
+| 10 | Jul-2021 | 500 | 400 |
+| 11 | Aug-2021 | 500 | 400 |
+| 12 | Sep-2021 | 500 | 400 |
+| 13 | Oct-2021 | 500 | 400 |
+| 14 | Nov-2021 | 500 | 400 |
+| 15 | Dec-2021 | 500 | 400 |
 | | TOTAL | 7,200 | 4,800 |
 
 \* *Please keep in mind that the DAO can decide to change these plans at any time*
