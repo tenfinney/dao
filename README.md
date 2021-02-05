@@ -50,7 +50,7 @@ Choose an hourly rate commensurate with your level of relevant experience and de
 
 ### Spending Projections
 
-Here is the projected global burn rate that builder teams and token holders should consider when drafing and passing spending proposals. These are projections that are subject to change.
+Here is the projected global burn rate that builder teams and token holders should consider when drafting and passing spending proposals. These are projections that are subject to change.
 
 | Period | `W3API` | Stablecoins | |
 |-|-|-|-|
