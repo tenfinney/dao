@@ -77,7 +77,7 @@ Here is the projected global burn rate that builder teams and token holders shou
 
 <img src="./bin/token-distribution.png" width="300px"/>
 
-- **Dev Mining** (6,000) - Software and business development efforts from Oct 1, 2020 - Dec 31, 2021. (viewable [here](./spending-proposals/))
+- **Dev Mining** (6,000) - Software and business development efforts from Oct 1, 2020 - Dec 31, 2021 (view spending projections above)
 - **Pre-Seed Builders** (4,000) - Building efforts before Oct 1, 2020 (viewable [here](./token-allocations/pre-seed-builders.csv))
 - **Pre-Seed Funders** (4,000) - Early financial backers (viewable [here](./token-allocations/pre-seed-funders.csv))
 - **DAO Treasury** (6,000) - Surplus resource for future usage (integration grants, partnerships, fundraising, insurance, liquidity, etc.)
