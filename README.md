@@ -1,9 +1,9 @@
 # Web3API DAO
-[![Generic badge](https://img.shields.io/badge/STATUS-MAINNET-GREEN.svg)](https://client.aragon.org/#/w3api)
+[![Generic badge](https://img.shields.io/badge/Wallet-Aragon-52EBFF.svg)](https://client.aragon.org/#/w3api) [![Generic badge](https://img.shields.io/badge/Consensus-Snapshot-f6ad32.svg)](https://snapshot.page/#/web3-api)  
 
-The Web3API DAO is responsible for stewarding the Web3API ecosystem. `W3API` governance token holders will have immediate control of the:
+The `Web3API` token holders, known collectively as the "DAO", are responsible for stewarding the Web3API ecosystem. The DAO controls the:
 - Treasury
-- `W3API` token issuance
+- Token minting
 - DAO configuration
 - ENS domain (web3api.eth)
 
@@ -12,67 +12,83 @@ In the future, it is anticipated that the DAO will also govern:
 - Web3Hub platform deployments
 - DAO-verified APIs (hosted at web3api.eth subdomains)
 
-## Getting Started
+## Join The DAO
 
-### Seed Funder
+Interested in getting involved?
 
-To become a *Seed Funder*:
+1. Start out by joining our [Discord](https://discord.gg/Z5m88a5qWu) or reaching out to the point person for your area of interest:
 
-1. Go to the [DAO's Token Request App](https://client.aragon.org/#/w3api/0x9bb4ea752a3096104c7765ad318b0f9cabaaf95f/).
-2. Click **New Request** in the top right corner.
-3. In **Offered Amount** enter the amount you would like to contribute (DAI, USDC, USDT, or TUSD).
-4. In **Requested Amount** enter the **Offered Amount** divided by the current batch price (*$200*). This is the number of `W3API` you will receive.
-5. Press **Create Request** to initiate the proposal and deposit your funds.
-6. Fill out [this quick form](https://airtable.com/shrE0bMs1D07FV3oO).
+| Domain| Points of Contact |  
+|-|-|
+| [Web3API Core Client](https://github.com/Web3-API/prototype) | [Jordan](https://t.me/dOrgJelli) |  
+| [Web3API Standard](https://github.com/Web3-API/specification) | [Belma](https://t.me/MorriganIV), [Jordan](https://t.me/dOrgJelli) |  
+| Web3Hub | [Andrew](https://t.me/cncrde) |  
+| [Landing Page](https://github.com/Web3-API/landing-page) and [Branding](https://github.com/Web3-API/branding) | [Roberto](https://t.me/daoadvocate) |  
+| [Twitter](https://twitter.com/web3api) and [Substack](https://web3api.substack.com/) | [Ingamar](https://t.me/Ingalandia) |
+| Launch Partners | [Steff](https://t.me/SteffBrowne) |
+| Tokenomics | [Phil](https://t.me/phil_h), [Ori](https://t.me/Ori) |
 
-`W3API` holders will receive this information and vote on your request. If approved, your funds will transfer to the DAO and `W3API` will be minted to your wallet. If rejected, you will be able to withdraw your funds. You may also withdraw your funds at any time before the request is approved.
+2. Submit a proposal on [snapshot](https://snapshot.page/#/web3-api) using our [template](./spending-proposals/000-TEMPLATE.md) and compensation guidelines (below).
 
-### Seed Builder
+3. If your proposal is accepted, add the details [here](./spending-proposals/) and make sure to update this with details as you progress (you are also encouraged to regularly share updates in community chats and calls).
 
-To become a *Seed Builder*:
-1. Fork [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch'.
-2. Duplicate the [`TEMPLATE.md`](./roadmaps/TEMPLATE.md) file in the [`./roadmaps`](./roadmaps) folder.
-3. Name the file, complete all required fields, and feel free to get creative with anything else you'd like to add.
-4. Open a PR against [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch.
-5. Create an informational proposal in the [DAO's voting app](https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/), linking to the open PR.
-6. If the DAO proposal passes, the PR can then be merged into master.
+4. Submit payment proposals on [Aragon](https://client.aragon.org/#/w3api) at the delivery milestones laid out in your proposal.*
 
-*Seed Builders* are granted funds on a per-project basis by the Web3API DAO. Each funded project will have its own roadmap that helps the DAO budget, maintain accountability, and schedule developments.
+### Q1 2021 Compensation Guidelines
+
+Here are some guidelines for making your spending proposals. These guidelines are just guidelines, as all final decisions are made by the DAO.
+
+Choose an hourly rate commensurate with your level of relevant experience and desired weighting between USD and `W3API`. 
+
+| Level | Years of Experience| Option 1 | Option 2  | Option 3 | Option 4 |
+|-|-|-|-|-|-|
+| Junior | 0-2| 0.05 `W3API`, $50 | 0.125 `W3API`, $35 | 0.225 `W3API`, $20 | 0.375 `W3API`, $0 |
+| Intermediate | 2-4 | 0.06 `W3API`, $65 | 0.15 `W3API`, $50 | 0.27 `W3API`, $35 | 0.45 `W3API`, $0 |
+| Senior | 4+ | 0.07 `W3API`, $80 | 0.175 `W3API`, $65 | 0.315 `W3API`, $50| 0.525 `W3API`, $0 |
+
+\* *Please keep in mind that all final decisions must be approved by the DAO.*
 
 ## Token Distribution
 > NOTE: Tokens are initially set to be non-transferable.
 
-<img src="./img/token-distribution.png" width="300px"/>
+<img src="./bin/token-distribution.png" width="300px"/>
+
+### Dev Mining
+
+The DAO plans to mint no more than 12,000 tokens to incentivize builders and build the DAO treasury from Oct 1, 2020 through Dec 31, 2021. Below is a suggested schedule for the builder payouts, with a designated Treasury/Buffer beginning January 2021 to serve as a surplus resource for future usage (integration grants, partnerships, fundraising, insurance, liquidity, etc.).*
+
+|  | Period | Builder Payout Ceiling | DAO Treasury/Buffer |
+|-|-|-|-|
+| 1 | Oct-2020 | 400 | |
+| 2 | Nov-2020 | 400 | |
+| 3 | Dec-2020 | 400 | |
+| 4 | Jan-2021 | 500 | 400 |
+| 5 | Feb-2021 | 500 | 400 |
+| 6 | Mar-2021 | 500 | 400 |
+| 7 | Apr-2021 | 500 | 400 |
+| 8 | May-2021 | 500 | 400 |
+| 9 | Jun-2021 | 500 | 400 |
+| 10 | Jul-2021 | 500 | 400 |
+| 11 | Aug-2021 | 500 | 400 |
+| 12 | Sep-2021 | 500 | 400 |
+| 13 | Oct-2021 | 500 | 400 |
+| 14 | Nov-2021 | 500 | 400 |
+| 15 | Dec-2021 | 500 | 400 |
+| | TOTAL | 7,200 | 4,800 |
+
+\* *Please keep in mind that the DAO can decide to change these plans at any time*
 
 ### Pre-Seed Builders
-At launch 4,000 `W3API` are minted to *Pre-Seed Builders* in proportion to work contributed before launch on October 1st (viewable [here](./token-allocations/pre-seed-builders.csv)).
+At launch 4,000 `W3API` were minted to *Pre-Seed Builders* in proportion to work contributed before launch on October 1st (viewable [here](./token-allocations/pre-seed-builders.csv)).
 
-### Seed Funders
-4,000 `W3API` will be minted to *Seed Funders*, with a goal of raising $1M by December 31st. Tokens will be priced in three batches (viewable [here](./token-allocations/seed-funders.csv))
+### Pre-Seed Funders
+4,000 `W3API` were minted to *Pre-Seed Funders*, enabling the DAO to raise $1M by the end of 2020. Tokens were priced in three batches (viewable [here](./token-allocations/pre-seed-funders.csv))
 
   | Batch | Supply | Price |
   |-|-|-|
-  | *A* | 1,500 `W3API`| $200 |
-  | *B* | 1,500 `W3API`| $250 |
-  | *C* | 1,000 `W3API`| $325 |  
-
-> NOTE: If all 4,000 `W3API` are not sold by December 31st, the remaining `W3API` *Seed Funder* allocation will be distributed pro-rata to existing *Seed Funders*.
-
-### Seed Builders
-12,000 `W3API` will be minted to *Seed Builders* in proportion to value-added contributions over the first 16 months (~750/month). `W3API` holders will decide on further fundraising and token emission plans after the 16 month seed period.
-
-## Use of Funds
-
-In the first 16 months, it is anticipated that the DAO will allocate funds for:
-- Development - $42,000 / month
-- Ops & Adoption - $15,000 / month
-- Legal & SaaS - $5,500 / month
-
-<img src="./img/fund-usage.png" width="600px"/>
-
-With the goal of delivering the following in 2021:
-
-<img src="./img/seed-goals.png" width="600px">
+  |~~*A*~~ (filled)|~~1,500 `W3API`~~|~~$200~~|
+  |~~*B*~~ (filled)|~~1,500 `W3API`~~|~~$250~~|
+  |~~*C*~~ (filled)|~~1,000 `W3API`~~|~~$325~~|
 
 ## DAO Configuration
 
@@ -94,19 +110,8 @@ The DAO uses the following Aragon apps:
 
 See the full configuration [here](https://client.aragon.org/#/w3api/permissions/).
 
+\* *Please keep in mind that the DAO can decide to change its configuration at any time*
+
 ## Legal
 
-Holders of `W3API` do not constitute any sort of partnership or joint venture, only the right to participate in the governance of the DAO. Further, becoming a Seed Builder does not constitute any sort of partnership, joint venture, principal-agent relationship, or an employer-employee relationship. 
-
-## FAQ
-
-**What can I do with my `W3API` tokens?**  
-Once your token request is approved, you instantly have the power to vote on all on-chain decisions, such as spending funds or minting new tokens.
-
-**What funder protections are there?**  
-1. *Seed Funders* will approach equal voting power to *Pre-Seed Builders* as the seed round reaches conclusion (December 31st). This means that funders can protect their own best interests through voting. 
-2. Furthermore, the *Support* level is set at 60% to ensure that EVERY decision has mutual support from both builders and funders.
-3. Lastly, the initial token holders are long-term committed builders (see *[Pre-Seed Builders](#Pre-Seed-Builders)* above) who have been contributing since before the project was funded.
-
-**What about vesting?**  
-`W3API` tokens are initially set to be non-transferable. The DAO can decide to change this in the future and mint tokens to contributors via timelock or vesting contracts.
+Holders of `W3API` do not constitute any sort of partnership or joint venture, only the right to participate in the governance of the DAO. Further, becoming a Builder does not constitute any sort of partnership, joint venture, principal-agent relationship, or an employer-employee relationship. 
