@@ -1,18 +1,18 @@
-# Concorde's Services for February
+# Concorde's Services for March
 
 | Funds Requested | Time Period | Estimated Effort |
 |-|-|-|
-Jeff = | $3,200 + 2.8 `W3API` | Feb 15 - Feb 28, 2020 | 40 hours |
-Marko = | $4,320 + 3.78 `W3API` | Feb 11 - Feb 28, 2020 | 54 hours |
-Andrew = | 10.5 `W3API` | Feb 8 - Feb 28, 2020 | 20 hours |
-*Total = | $7,520 + 17.08 `W3API` | Feb 8 - Feb 28, 2020 | 114 hours |*
+Jeff = | $9,600 + 8.4 `W3API` | March 1 - March 31, 2021 | 120 hours |
+Marko = | $800 + 0.7 `W3API` | March 1 - March 31, 2021 | 10 hours |
+Andrew = | 31.5 `W3API` | March 1 - March 31, 2021 | 60 hours |
+*Total = | $10,400 + 40.6 `W3API` | March 1 - March 31, 2021 | 190 hours |*
 
-*Note that timeline is an estimate for the deliverables listed below based on the maximum number of hours able to be committed to by the team. There's a chance a lower amount of hours end up being worked in February.*
+*Note that timeline is an estimate for the deliverables listed below based on the maximum number of hours able to be committed to by the team. There's a chance a lower amount of hours end up being worked in March.*
 
 
 ## Summary
 
-This is the main proposal for Web3Hub development, in which we will design and build out the interface according to the Product Roadmap document seen [here](https://docs.google.com/document/d/1s8ZJaJZRfDYqjUFRXcB4egwrZQHIUqod9JhIws1g77Q/edit?usp=sharing)
+This is a proposal for Web3Hub development, in which we will design and build out the interface according to the Product Roadmap document seen [here](https://docs.google.com/document/d/1s8ZJaJZRfDYqjUFRXcB4egwrZQHIUqod9JhIws1g77Q/edit?usp=sharing). Starting in April we'll move to a 3-month proposal with monthly deliverable submissions.
 
 The team composition will be the following for February:
 - FT Engineer (Jeff)
@@ -24,14 +24,11 @@ Project management will be facilitated through Linear, day-to-day conversations 
 
 ## Deliverables
 
-A dedicated GitHub repo will be created for the Web3Hub and features will be committed and merged there as they are completed. The high-level goals for February are:
-- Complete front-end scaffolding and state management setup
-    * 90% completed
-- Complete basic, static, un-styled versions of Browse, View API, and Create API views
-    * 100% completed
-- Complete 50% of UI design work needed
-    * 90% of the overall design has been completed
-
+The high-level goals for March are:
+- v0.5 UI design 100% completed and Figma files delivered
+- 95% polished interface according to the UI design, including animations
+- Basic Create API integration that enables core devs to create and publish new APIs
+- Spec completed for centralized backend services that enable user sign and publishing to the Web3Hub API index
 
 ## Fund Distribution
 
