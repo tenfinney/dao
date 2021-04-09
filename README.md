@@ -20,13 +20,12 @@ Interested in getting involved?
 
 | Domain| Points of Contact |  
 |-|-|
-| [Web3API Core Client](https://github.com/Web3-API/prototype) | [Jordan](https://t.me/dOrgJelli) |  
-| [Web3API Standard](https://github.com/Web3-API/specification) | [Belma](https://t.me/MorriganIV), [Jordan](https://t.me/dOrgJelli) |  
-| Web3Hub | [Andrew](https://t.me/cncrde) |  
-| [Landing Page](https://github.com/Web3-API/landing-page) and [Branding](https://github.com/Web3-API/branding) | [Roberto](https://t.me/daoadvocate) |  
-| [Twitter](https://twitter.com/web3api) and [Substack](https://web3api.substack.com/) | [Ingamar](https://t.me/Ingalandia) |
-| Launch Partners | [Steff](https://t.me/SteffBrowne) |
-| Tokenomics | [Phil](https://t.me/phil_h), [Ori](https://t.me/Ori) |
+| [Core Client](https://github.com/Web3-API/prototype) | dOrgJelli |  
+| [Standard](https://github.com/Web3-API/specification) | Belma, dOrgJelli |  
+| [Web3Hub](https://github.com/Web3-API/web3hub) | kachette |  
+| [Landing Page](https://github.com/Web3-API/landing-page) and [Branding](https://github.com/Web3-API/branding) | Media |  
+| [Twitter](https://twitter.com/web3api) and [Substack](https://web3api.substack.com/) | Ingalandia |
+| Launch Partners & Dev Relations | keeevin |
 
 2. Submit a proposal on [snapshot](https://snapshot.page/#/web3-api) using our [template](./spending-proposals/000-TEMPLATE.md) and compensation guidelines (below).
 
