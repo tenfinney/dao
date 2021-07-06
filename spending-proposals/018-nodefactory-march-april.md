@@ -3,7 +3,7 @@
 | Funds Requested | Time Period | Estimated Effort |
 |-|-|-|
 | $9880 + 27 `W3API` | March 15 - March 31, 2021 | 152 hours |
-| $9360 + 25 `W3API` | April 1 - May 30, 2021 | 144 hours |
+| $9360 + 50.4 `W3API` | April 1 - May 30, 2021 | 144 hours |
 
 Note: Some of the planned April work was carried out in May instead due to unexpected circumstances.
 
@@ -60,7 +60,7 @@ All stable coins and W3API tokens should be send to NodeFactory's address @ `nod
 |-|-|-|  
 | March | $9,880 | https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/129/ |  
 | March | 27 W3API | https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/128/ |  
-| April/May |  W3API | TBU |  
+| April/May | 50.4 W3API | TBU |  
 | April/May | $9,360 | https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/155/ |  
 
 ## About us
