@@ -2,7 +2,7 @@
 
 | Funds Requested | Time Period | Estimated Effort | Effective Rate |
 |-|-|-|-|
-| $16,900 + 15.6`W3API` | May 17th - June 30th | 260 hrs (40/wk) | $65/hr + 0.06`W3API`/hr |
+| $16,900 + 91`W3API` | May 17th - June 30th | 260 hrs (40/wk) | $65/hr + 0.35`W3API`/hr |
 
 ## Summary
 

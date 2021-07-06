@@ -60,7 +60,7 @@ All stable coins and W3API tokens should be send to NodeFactory's address @ `nod
 |-|-|-|  
 | March | $9,880 | https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/129/ |  
 | March | 27 W3API | https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/128/ |  
-| April/May |  W3API | https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/154/ |  
+| April/May |  W3API | TBU |  
 | April/May | $9,360 | https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/155/ |  
 
 ## About us

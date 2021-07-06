@@ -1,4 +1,4 @@
-# PolyWrap Rebrand [WIP]
+# PolyWrap Rebrand
 
 | Timeframe | Total Payment | Estimated Effort | 
 |-|-|-|
