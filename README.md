@@ -1,6 +1,6 @@
 # **Web3API DAO**
 
-[![Generic badge](https://img.shields.io/badge/Wallet-Aragon-52EBFF.svg)](https://client.aragon.org/#/w3api) [![Generic badge](https://img.shields.io/badge/Consensus-Snapshot-f6ad32.svg)](https://snapshot.page/#/web3-api)
+[![Generic badge](https://img.shields.io/badge/Wallet-Gnosis-52EBFF.svg)](https://gnosis-safe.io/app/#/safes/0x8c3FA50473065f1D90f186cA8ba1Aa76Aee409Bb) [![Generic badge](https://img.shields.io/badge/Consensus-Snapshot-f6ad32.svg)](https://snapshot.org/#/polywrap.eth) [![Generic badge](https://img.shields.io/badge/Deprecated-Aragon-52EBFF.svg)](https://client.aragon.org/#/w3api)
 
 The `Web3API` token holders, known collectively as the "DAO", are responsible for stewarding the Web3API ecosystem. The DAO controls the:
 
