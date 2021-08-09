@@ -30,6 +30,9 @@ The proposal will earmark a reward pool as incentive for LPs to complete and pro
 **60 W3API tokens total**
 - 2 W3API tokens per guide and feedback form completed (Max 6 per LP, limited to 10 LPs)
 
+## Rewards
+[Results found here](../token-allocations/multisig-04-lp-docs-rewards.csv)
+
 ## Contact the proposal author
 - **[Discord:](https://discord.com/invite/Z5m88a5qWu)** @keeevin#7783
 - **E-mail:** w3.baseless@simplelogin.co
